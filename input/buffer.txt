@@ -1,0 +1,13 @@
+group by , app_reviews.Sentiment
+
+
+SELECT count(app_reviews.*)
+FROM app_reviews
+group by app_reviews.Sentiment
+
+
+SELECT  top 10 App, Rating, count(app_info.ID)
+FROM app_info
+where app_info.Installs = (Select max(app_info.Installs) FROM app_info)
+group by App, Rating
+order by Rating desc, App desc
