@@ -1,0 +1,5 @@
+coordinates = (1,2)
+tuple2 = (1,2,"Abc", "ewd")
+print("tuple are immutable")
+print(coordinates[0])
+print(tuple2)
