@@ -1,6 +1,0 @@
-group by , app_reviews.Sentiment
-
-
-SELECT count(app_reviews.*)
-FROM app_reviews
-group by app_reviews.Sentiment
