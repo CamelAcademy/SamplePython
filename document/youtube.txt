@@ -1,0 +1,50 @@
+Intro to Creating DataFrame - 106
+using Python Pandas & Jupyter Notebook
+list of tuples
+dictionary
+
+Introduction,
+Creating DataFrame,
+Read,
+Write
+IO,
+Converters,
+Python,
+Pandas,
+Jupyter Notebook,
+DataFrame,
+CSV,
+Excel,
+Tuples,
+List,
+Dictionary,
+
+
+Introduction to Creating DataFrame using Python Pandas Jupyter Notebook
+Pandas DataFrame From CSV,
+Excel, Tuples , Dictionary
+and more.
+
+
+
+Introduction to Creating DataFrame - 106						
+						
+using Python Pandas & Jupyter Notebook						
+						
+						
+						
+DataFrame From CSV,						
+Excel, Tuples , Dictionary						
+and more.						
+
+Introduction to Creating DataFrame 107 using Python Pandas & Jupyter Notebook
+
+Introduction to Creating DataFrame - 106
+using Python Pandas & Jupyter Notebook
+Pandas DataFrame From CSV,
+Excel, Tuples , Dictionary
+and more.
+
+Introduction Read Write Excel - 115
+using Python Pandas & Jupyter Notebook
+
