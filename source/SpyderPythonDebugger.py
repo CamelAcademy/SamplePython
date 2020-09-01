@@ -1,22 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-""" Python Debugger: module to help us debug Python code
-The most simplest debugger is print statement but Python Debugger is better than it for sure as we can:
-set breakpoint, examine variables, execuite line by line, step into function, complete to end and lot more 
-
-Debugger will help us to figure out when when we do not wrong results.
-
-set_trace() is the 1st break point then we can use below command line operations in pdb command prompt:
-help - type help <topic>
-n - execute next line
-s - step into function call
-p - print variable value p(n) or just variable name
-b - show all breakpoints
-b # - set a breakpoint with line number 
-l - list 3 lines above and below current line
-cl - clear all breakpoints
-cl # - clear breakpoint on line number
-c - complete to end or continue to next breakpoint """
+"""
+Python Debugger
+@author: Camel Academy
+"""
 
 import pdb
 import math
