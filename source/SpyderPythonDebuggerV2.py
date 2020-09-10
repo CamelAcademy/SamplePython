@@ -18,15 +18,14 @@ cl - clear all breakpoints
 cl # - clear breakpoint on line number
 c - complete to end or continue to next breakpoint """
 
-import pdb
+#import pdb
 import math
 
 def triangle_area(b,h):
     return b*h/2
 
 def circle_area(r):
-    rsq = r**2
-    return math.pi*rsq
+    return math.pi*(r**2)
 
 b1 = 4
 h1 = 5
@@ -40,7 +39,7 @@ b3 = 10
 h3 = 2
 print("T3 Area ==>", triangle_area(b3,h3))
 
-pdb.set_trace()
+#pdb.set_trace()
 
 r1 = 1
 print("C1 Area ==>", circle_area(r1))
