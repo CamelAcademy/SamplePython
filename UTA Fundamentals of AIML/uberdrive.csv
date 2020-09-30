@@ -1,0 +1,1156 @@
+Trip_Id,START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,PURPOSE*
+1,01-01-2016 21:11,01-01-2016 21:17,Business,Fort Pierce,Fort Pierce,Meal/Entertain
+2,01-02-2016 01:25,01-02-2016 01:37,Business,Fort Pierce,Fort Pierce,
+3,01-02-2016 20:25,01-02-2016 20:38,Business,Fort Pierce,Fort Pierce,Errand/Supplies
+4,01-05-2016 17:31,01-05-2016 17:45,Business,Fort Pierce,Fort Pierce,Meeting
+5,01-06-2016 14:42,01-06-2016 15:49,Business,Fort Pierce,West Palm Beach,Customer Visit
+6,01-06-2016 17:15,01-06-2016 17:19,Business,West Palm Beach,West Palm Beach,Meal/Entertain
+7,01-06-2016 17:30,01-06-2016 17:35,Business,West Palm Beach,Palm Beach,Meeting
+8,01-07-2016 13:27,01-07-2016 13:33,Business,Cary,Cary,Meeting
+9,01-10-2016 08:05,01-10-2016 08:25,Business,Cary,Morrisville,Meeting
+10,01-10-2016 12:17,01-10-2016 12:44,Business,Jamaica,New York,Customer Visit
+11,01-10-2016 15:08,01-10-2016 15:51,Business,New York,Queens,Meeting
+12,01-10-2016 18:18,01-10-2016 18:53,Business,Elmhurst,New York,Meeting
+13,01-10-2016 19:12,01-10-2016 19:32,Business,Midtown,East Harlem,Meeting
+14,01-11-2016 08:55,01-11-2016 09:21,Business,East Harlem,NoMad,Temporary Site
+15,01-11-2016 11:56,01-11-2016 12:03,Business,Flatiron District,Midtown,Errand/Supplies
+16,01-11-2016 13:32,01-11-2016 13:46,Business,Midtown,Midtown East,Meal/Entertain
+17,01-11-2016 14:30,01-11-2016 14:43,Business,Midtown East,Midtown,Meal/Entertain
+18,01-12-2016 12:33,01-12-2016 12:49,Business,Midtown,Hudson Square,Meal/Entertain
+19,01-12-2016 12:53,01-12-2016 13:09,Business,Hudson Square,Lower Manhattan,Meal/Entertain
+20,01-12-2016 14:42,01-12-2016 14:56,Business,Lower Manhattan,Hudson Square,Errand/Supplies
+21,01-12-2016 15:13,01-12-2016 15:28,Business,Hudson Square,Hell's Kitchen,Customer Visit
+22,01-12-2016 15:42,01-12-2016 15:54,Business,Hell's Kitchen,Midtown,Errand/Supplies
+23,01-12-2016 16:02,01-12-2016 17:00,Business,New York,Queens County,Meeting
+24,1/13/2016 13:54,1/13/2016 14:07,Business,Downtown,Gulfton,Meeting
+25,1/13/2016 15:00,1/13/2016 15:28,Business,Gulfton,Downtown,Meeting
+26,1/14/2016 16:29,1/14/2016 17:05,Business,Houston,Houston,Customer Visit
+27,1/14/2016 21:39,1/14/2016 21:45,Business,Eagan Park,Jamestown Court,Errand/Supplies
+28,1/15/2016 0:41,1/15/2016 1:01,Business,Morrisville,Cary,Errand/Supplies
+29,1/15/2016 11:43,1/15/2016 12:03,Business,Cary,Durham,Meal/Entertain
+30,1/15/2016 13:26,1/15/2016 13:44,Business,Durham,Cary,Meal/Entertain
+31,1/18/2016 14:55,1/18/2016 15:06,Business,Cary,Cary,Meal/Entertain
+32,1/18/2016 16:13,1/18/2016 16:24,Business,Farmington Woods,Whitebridge,Meal/Entertain
+33,1/19/2016 9:09,1/19/2016 9:23,Business,Whitebridge,Lake Wellingborough,
+34,1/19/2016 10:55,1/19/2016 11:09,Business,Lake Wellingborough,Whitebridge,Temporary Site
+35,1/20/2016 10:36,1/20/2016 11:11,Business,Cary,Raleigh,Meeting
+36,1/20/2016 11:48,1/20/2016 12:19,Business,Fayetteville Street,Umstead,Meeting
+37,1/20/2016 13:25,1/20/2016 14:19,Business,Raleigh,Cary,Customer Visit
+38,1/21/2016 14:25,1/21/2016 14:29,Business,Cary,Cary,Errand/Supplies
+39,1/21/2016 14:43,1/21/2016 14:51,Business,Cary,Cary,Meal/Entertain
+40,1/21/2016 16:01,1/21/2016 16:06,Business,Cary,Cary,Meal/Entertain
+41,1/26/2016 10:41,1/26/2016 10:50,Business,Whitebridge,Hazelwood,Meal/Entertain
+42,1/26/2016 12:33,1/26/2016 12:41,Business,Hazelwood,Whitebridge,Errand/Supplies
+43,1/26/2016 16:24,1/26/2016 16:32,Business,Whitebridge,Westpark Place,Errand/Supplies
+44,1/26/2016 17:17,1/26/2016 17:22,Business,Cary,Cary,Errand/Supplies
+45,1/26/2016 17:27,1/26/2016 17:29,Business,Cary,Cary,Errand/Supplies
+46,1/27/2016 9:24,1/27/2016 9:31,Business,Cary,Cary,Meeting
+47,1/27/2016 10:19,1/27/2016 10:48,Business,Cary,Raleigh,Customer Visit
+48,1/27/2016 12:34,1/27/2016 12:44,Business,Fairmont,Meredith Townes,Customer Visit
+49,1/27/2016 14:05,1/27/2016 14:13,Business,Raleigh,Raleigh,Customer Visit
+50,1/27/2016 14:46,1/27/2016 15:08,Business,Raleigh,Cary,Customer Visit
+51,1/28/2016 12:28,1/28/2016 13:00,Business,Cary,Raleigh,Temporary Site
+52,1/28/2016 15:11,1/28/2016 15:31,Business,Meredith Townes,Leesville Hollow,Meeting
+53,1/28/2016 16:21,1/28/2016 16:51,Business,Raleigh,Cary,Meeting
+54,1/29/2016 9:31,1/29/2016 9:45,Business,Cary,Cary,Customer Visit
+55,1/29/2016 10:56,1/29/2016 11:07,Business,Cary,Cary,Meeting
+56,1/29/2016 11:43,1/29/2016 12:03,Business,Cary,Durham,Meeting
+57,1/29/2016 13:24,1/29/2016 13:47,Business,Durham,Cary,Meeting
+58,1/29/2016 18:31,1/29/2016 18:52,Business,Cary,Apex,Errand/Supplies
+59,1/29/2016 21:21,1/29/2016 21:40,Business,Apex,Cary,Meal/Entertain
+60,1/30/2016 16:21,1/30/2016 16:33,Business,Cary,Apex,Errand/Supplies
+61,1/30/2016 18:09,1/30/2016 18:24,Business,Apex,Cary,Customer Visit
+62,02-01-2016 10:35,02-01-2016 11:15,Business,Cary,Chapel Hill,Customer Visit
+63,02-01-2016 12:10,02-01-2016 12:43,Business,Chapel Hill,Cary,Customer Visit
+64,02-01-2016 12:56,02-01-2016 13:07,Business,Northwoods,Whitebridge,Meal/Entertain
+65,02-02-2016 13:04,02-02-2016 13:23,Business,Whitebridge,Williamsburg Manor,Meeting
+66,02-02-2016 13:51,02-02-2016 14:06,Business,Cary,Cary,Errand/Supplies
+67,02-02-2016 14:38,02-02-2016 14:42,Business,Cary,Cary,Errand/Supplies
+68,02-04-2016 08:40,02-04-2016 09:01,Business,Cary,Morrisville,Errand/Supplies
+69,02-04-2016 09:37,02-04-2016 10:09,Business,Morrisville,Cary,Meal/Entertain
+70,02-04-2016 10:26,02-04-2016 10:32,Business,Cary,Cary,Meal/Entertain
+71,02-04-2016 15:59,02-04-2016 16:03,Business,Cary,Cary,Meal/Entertain
+72,02-04-2016 16:35,02-04-2016 16:39,Business,Cary,Cary,Meal/Entertain
+73,02-04-2016 18:04,02-04-2016 18:31,Business,Whitebridge,Macgregor Downs,Meeting
+74,02-04-2016 20:36,02-04-2016 20:55,Business,Cary,Cary,Meeting
+75,02-05-2016 11:47,02-05-2016 12:07,Business,Cary,Durham,Meeting
+76,02-05-2016 13:22,02-05-2016 13:41,Business,Durham,Cary,Meeting
+77,02-06-2016 16:20,02-06-2016 16:53,Business,Cary,Raleigh,Between Offices
+78,02-06-2016 18:57,02-06-2016 19:21,Business,Raleigh,Cary,Errand/Supplies
+79,02-06-2016 19:28,02-06-2016 19:37,Business,Edgehill Farms,Whitebridge,Meal/Entertain
+80,02-07-2016 16:49,02-07-2016 17:01,Business,Cary,Apex,Errand/Supplies
+81,02-07-2016 18:03,02-07-2016 18:17,Business,Apex,Cary,Customer Visit
+82,02-07-2016 18:39,02-07-2016 18:53,Business,Cary,Morrisville,Temporary Site
+83,02-07-2016 20:22,02-07-2016 20:40,Business,Morrisville,Cary,Meeting
+84,02-08-2016 12:57,02-08-2016 13:08,Business,Whitebridge,Edgehill Farms,Meal/Entertain
+85,02-08-2016 14:00,02-08-2016 14:10,Business,Edgehill Farms,Whitebridge,Meal/Entertain
+86,02-09-2016 10:54,02-09-2016 11:07,Personal,Whitebridge,Northwoods,
+87,02-09-2016 11:43,02-09-2016 11:50,Personal,Northwoods,Tanglewood,
+88,02-09-2016 13:36,02-09-2016 13:52,Personal,Tanglewood,Preston,
+89,02-09-2016 13:58,02-09-2016 14:02,Personal,Preston,Whitebridge,
+90,02-09-2016 18:55,02-09-2016 19:11,Business,Cary,Morrisville,
+91,02-09-2016 20:24,02-09-2016 20:40,Business,Morrisville,Cary,Meal/Entertain
+92,02-11-2016 16:28,02-11-2016 17:10,Business,Cary,Raleigh,Meal/Entertain
+93,02-11-2016 17:49,02-11-2016 18:10,Business,Eastgate,Walnut Terrace,Meal/Entertain
+94,02-11-2016 18:24,02-11-2016 18:46,Business,Raleigh,Morrisville,Temporary Site
+95,02-11-2016 20:36,02-11-2016 20:51,Business,Morrisville,Cary,Temporary Site
+96,02-12-2016 08:21,02-12-2016 08:42,Business,Cary,Durham,Temporary Site
+97,02-12-2016 10:45,02-12-2016 10:52,Business,Durham,Morrisville,Temporary Site
+98,02-12-2016 11:14,02-12-2016 11:35,Business,Morrisville,Raleigh,Customer Visit
+99,02-12-2016 13:02,02-12-2016 13:36,Business,Raleigh,Cary,Meeting
+100,02-12-2016 14:49,02-12-2016 15:06,Business,Cary,Morrisville,Meeting
+101,02-12-2016 15:33,02-12-2016 16:06,Business,Morrisville,Cary,Customer Visit
+102,2/13/2016 14:21,2/13/2016 14:41,Business,Cary,Morrisville,Meeting
+103,2/13/2016 23:45,2/14/2016 0:01,Personal,East Elmhurst,Jackson Heights,
+104,2/14/2016 0:50,2/14/2016 1:00,Personal,Jackson Heights,East Elmhurst,
+105,2/14/2016 14:07,2/14/2016 14:40,Business,East Elmhurst,New York,Meeting
+106,2/14/2016 14:46,2/14/2016 15:03,Business,Midtown,Midtown West,Meeting
+107,2/14/2016 16:35,2/14/2016 17:02,Business,New York,Long Island City,Meeting
+108,2/14/2016 17:06,2/14/2016 17:29,Business,Long Island City,Jamaica,Meeting
+109,2/16/2016 3:21,2/16/2016 4:13,Business,Katunayaka,Unknown Location,Customer Visit
+110,2/16/2016 8:29,2/16/2016 9:34,Business,Unknown Location,Colombo,
+111,2/16/2016 10:31,2/16/2016 10:41,Business,Colombo,Colombo,
+112,2/16/2016 11:32,2/16/2016 12:02,Business,Colombo,Colombo,
+113,2/16/2016 12:39,2/16/2016 12:42,Business,Colombo,Colombo,
+114,2/16/2016 13:43,2/16/2016 13:55,Business,Colombo,Colombo,Temporary Site
+115,2/16/2016 16:34,2/16/2016 17:10,Business,Colombo,Colombo,
+116,2/16/2016 17:17,2/16/2016 17:26,Business,Colombo,Nugegoda,Meal/Entertain
+117,2/16/2016 17:40,2/16/2016 17:44,Business,Nugegoda,Unknown Location,Errand/Supplies
+118,2/17/2016 13:18,2/17/2016 14:04,Business,Unknown Location,Colombo,Temporary Site
+119,2/17/2016 15:17,2/17/2016 15:22,Business,Colombo,Colombo,Meal/Entertain
+120,2/17/2016 15:33,2/17/2016 16:17,Business,Colombo,Katunayaka,Temporary Site
+121,2/17/2016 16:38,2/17/2016 16:43,Business,Katunayaka,Katunayaka,Errand/Supplies
+122,2/18/2016 8:19,2/18/2016 8:27,Business,Unknown Location,Unknown Location,Temporary Site
+123,2/18/2016 14:03,2/18/2016 14:45,Business,Unknown Location,Islamabad,Temporary Site
+124,2/18/2016 15:16,2/18/2016 15:31,Business,Islamabad,Unknown Location,Temporary Site
+125,2/18/2016 18:44,2/18/2016 18:58,Business,Unknown Location,Islamabad,Customer Visit
+126,2/18/2016 19:27,2/18/2016 20:08,Business,Islamabad,Unknown Location,Meeting
+127,2/19/2016 9:02,2/19/2016 9:14,Business,Unknown Location,Unknown Location,Meeting
+128,2/19/2016 9:21,2/19/2016 9:51,Business,Unknown Location,Unknown Location,Meeting
+129,2/19/2016 10:21,2/19/2016 10:48,Business,Unknown Location,Islamabad,Meeting
+130,2/19/2016 11:20,2/19/2016 11:26,Personal,Islamabad,Islamabad,
+131,2/19/2016 11:45,2/19/2016 11:50,Personal,Islamabad,Islamabad,
+132,2/19/2016 12:09,2/19/2016 12:27,Business,Islamabad,Unknown Location,Temporary Site
+133,2/19/2016 16:26,2/19/2016 16:45,Business,Unknown Location,Islamabad,
+134,2/19/2016 17:09,2/19/2016 17:20,Business,Islamabad,Islamabad,
+135,2/19/2016 20:08,2/19/2016 20:30,Personal,Islamabad,Unknown Location,
+136,2/19/2016 20:34,2/19/2016 20:51,Personal,Unknown Location,Unknown Location,
+137,2/20/2016 7:59,2/20/2016 8:32,Personal,Unknown Location,Islamabad,
+138,2/20/2016 10:48,2/20/2016 10:56,Personal,Islamabad,Islamabad,
+139,2/20/2016 11:45,2/20/2016 11:53,Personal,Islamabad,Islamabad,
+140,2/20/2016 12:41,2/20/2016 13:17,Business,Islamabad,R?walpindi,
+141,2/20/2016 14:50,2/20/2016 15:54,Business,R?walpindi,R?walpindi,Meeting
+142,2/20/2016 16:59,2/20/2016 17:54,Personal,R?walpindi,Unknown Location,
+143,2/20/2016 18:00,2/20/2016 18:03,Business,Unknown Location,Unknown Location,Errand/Supplies
+144,2/20/2016 19:28,2/20/2016 19:49,Business,Unknown Location,Unknown Location,Errand/Supplies
+145,2/21/2016 9:07,2/21/2016 9:46,Business,Unknown Location,Islamabad,
+146,2/21/2016 11:39,2/21/2016 11:43,Business,Unknown Location,Islamabad,Errand/Supplies
+147,2/21/2016 11:47,2/21/2016 12:01,Business,Islamabad,Islamabad,Errand/Supplies
+148,2/21/2016 12:13,2/21/2016 12:35,Business,Islamabad,Unknown Location,Meal/Entertain
+149,2/21/2016 12:51,2/21/2016 13:12,Business,Unknown Location,Unknown Location,Temporary Site
+150,2/21/2016 13:33,2/21/2016 14:30,Business,Unknown Location,Unknown Location,Temporary Site
+151,2/21/2016 14:36,2/21/2016 15:03,Business,Unknown Location,Islamabad,Temporary Site
+152,2/21/2016 15:14,2/21/2016 15:31,Business,Islamabad,Noorpur Shahan,Temporary Site
+153,2/21/2016 15:36,2/21/2016 15:41,Business,Noorpur Shahan,Unknown Location,Meal/Entertain
+154,2/21/2016 16:04,2/21/2016 16:32,Business,Unknown Location,Unknown Location,
+155,2/21/2016 23:15,2/21/2016 23:52,Business,Unknown Location,R?walpindi,Meeting
+156,2/22/2016 21:54,2/22/2016 22:09,Business,Morrisville,Cary,Customer Visit
+157,2/24/2016 14:30,2/24/2016 14:35,Business,Whitebridge,Preston,
+158,2/24/2016 15:19,2/24/2016 15:25,Business,Preston,Whitebridge,Errand/Supplies
+159,2/25/2016 16:27,2/25/2016 16:35,Business,Whitebridge,Heritage Pines,Errand/Supplies
+160,2/25/2016 16:47,2/25/2016 17:02,Business,Heritage Pines,Whitebridge,Errand/Supplies
+161,2/25/2016 17:16,2/25/2016 17:36,Business,Whitebridge,Tanglewood,Meal/Entertain
+162,2/25/2016 18:22,2/25/2016 18:39,Business,Tanglewood,Whitebridge,Meal/Entertain
+163,2/26/2016 9:06,2/26/2016 9:29,Business,Whitebridge,Westpark Place,
+164,2/26/2016 11:05,2/26/2016 11:11,Personal,Westpark Place,Whitebridge,
+165,2/26/2016 11:35,2/26/2016 11:59,Business,Cary,Durham,Meeting
+166,2/26/2016 13:01,2/26/2016 13:24,Business,Durham,Cary,Meeting
+167,2/26/2016 14:38,2/26/2016 14:46,Personal,Whitebridge,Westpark Place,
+168,2/26/2016 15:00,2/26/2016 15:18,Personal,Westpark Place,Hazelwood,
+169,2/26/2016 17:01,2/26/2016 17:12,Personal,Hazelwood,Whitebridge,
+170,2/28/2016 5:22,2/28/2016 5:38,Business,Whitebridge,Waverly Place,Meeting
+171,2/28/2016 9:26,2/28/2016 9:42,Business,Waverly Place,Whitebridge,Meeting
+172,2/29/2016 11:07,2/29/2016 11:14,Personal,Whitebridge,Westpark Place,
+173,2/29/2016 11:30,2/29/2016 11:40,Business,Cary,Apex,Meeting
+174,2/29/2016 12:36,2/29/2016 12:48,Business,Apex,Cary,Meeting
+175,2/29/2016 14:55,2/29/2016 15:03,Business,Whitebridge,Hazelwood,
+176,2/29/2016 16:40,2/29/2016 17:00,Business,Hazelwood,Whitebridge,Customer Visit
+177,03-01-2016 18:47,03-01-2016 19:10,Business,Whitebridge,Wayne Ridge,Meal/Entertain
+178,03-01-2016 21:27,03-01-2016 21:45,Business,Wayne Ridge,Whitebridge,Meeting
+179,03-03-2016 09:45,03-03-2016 09:52,Personal,Whitebridge,Westpark Place,
+180,03-03-2016 11:04,03-03-2016 11:10,Business,Westpark Place,Whitebridge,Errand/Supplies
+181,03-03-2016 14:44,03-03-2016 14:58,Business,Whitebridge,Northwoods,Meal/Entertain
+182,03-03-2016 15:27,03-03-2016 15:48,Business,Cary,Raleigh,Customer Visit
+183,03-03-2016 16:02,03-03-2016 16:42,Business,Raleigh,Cary,Meeting
+184,03-04-2016 07:47,03-04-2016 08:06,Business,Cary,Durham,Meeting
+185,03-04-2016 09:46,03-04-2016 10:03,Business,Durham,Cary,Customer Visit
+186,03-04-2016 11:46,03-04-2016 12:06,Business,Cary,Durham,Meeting
+187,03-04-2016 13:03,03-04-2016 13:25,Business,Durham,Cary,Meeting
+188,03-04-2016 13:40,03-04-2016 14:09,Business,Cary,Raleigh,Customer Visit
+189,03-04-2016 15:56,03-04-2016 16:08,Business,Raleigh,Raleigh,Meal/Entertain
+190,03-04-2016 16:16,03-04-2016 16:22,Business,Fayetteville Street,Depot Historic District,Errand/Supplies
+191,03-04-2016 16:43,03-04-2016 17:12,Business,Raleigh,Cary,Meeting
+192,03-04-2016 19:02,03-04-2016 19:08,Business,Cary,Morrisville,Temporary Site
+193,03-04-2016 19:16,03-04-2016 19:25,Business,Morrisville,Cary,Meal/Entertain
+194,03-05-2016 11:44,03-05-2016 11:59,Business,Cary,Morrisville,Meal/Entertain
+195,03-05-2016 12:57,03-05-2016 13:12,Personal,Weston,Weston,
+196,03-05-2016 14:08,03-05-2016 14:18,Personal,Morrisville,Cary,
+197,03-05-2016 14:39,03-05-2016 15:01,Business,Whitebridge,Wayne Ridge,Meal/Entertain
+198,03-05-2016 16:52,03-05-2016 17:13,Business,Cary,Morrisville,Meal/Entertain
+199,03-05-2016 17:23,03-05-2016 17:34,Business,Morrisville,Cary,Meal/Entertain
+200,03-07-2016 09:10,03-07-2016 09:20,Business,Whitebridge,Edgehill Farms,Errand/Supplies
+201,03-07-2016 09:23,03-07-2016 09:47,Business,Cary,Raleigh,Customer Visit
+202,03-07-2016 12:10,03-07-2016 12:26,Business,Fayetteville Street,Meredith Townes,Customer Visit
+203,03-07-2016 13:57,03-07-2016 14:18,Business,Meredith Townes,Leesville Hollow,Meeting
+204,03-07-2016 15:19,03-07-2016 15:45,Business,Raleigh,Cary,Between Offices
+205,03-08-2016 14:38,03-08-2016 14:55,Business,Whitebridge,Waverly Place,Between Offices
+206,03-08-2016 15:35,03-08-2016 16:00,Business,Waverly Place,Whitebridge,Meal/Entertain
+207,03-08-2016 16:13,03-08-2016 16:25,Personal,Whitebridge,Whitebridge,
+208,03-10-2016 03:36,03-10-2016 03:53,Business,Cary,Morrisville,Meeting
+209,03-10-2016 10:08,03-10-2016 10:37,Business,East Austin,West University,Meeting
+210,03-10-2016 14:39,03-10-2016 14:55,Business,West University,South Congress,
+211,03-10-2016 16:18,03-10-2016 16:28,Business,South Congress,Arts District,
+212,03-11-2016 09:47,03-11-2016 09:59,Business,The Drag,Congress Ave District,Meal/Entertain
+213,03-11-2016 10:29,03-11-2016 10:36,Business,Congress Ave District,Downtown,
+214,03-11-2016 11:57,03-11-2016 12:04,Business,Downtown,Red River District,
+215,03-11-2016 13:43,03-11-2016 13:51,Business,Red River District,Downtown,
+216,03-11-2016 19:21,03-11-2016 19:35,Business,South Congress,The Drag,
+217,03-12-2016 09:13,03-12-2016 09:22,Business,The Drag,South Congress,
+218,03-12-2016 18:27,03-12-2016 18:37,Personal,South Congress,The Drag,
+219,3/13/2016 9:07,3/13/2016 9:37,Business,The Drag,Convention Center District,Meal/Entertain
+220,3/13/2016 18:23,3/13/2016 18:43,Business,South Congress,North Austin,Meal/Entertain
+221,3/13/2016 20:07,3/13/2016 20:28,Business,Georgian Acres,The Drag,Meal/Entertain
+222,3/13/2016 20:39,3/13/2016 20:58,Business,The Drag,North Austin,Meal/Entertain
+223,3/13/2016 21:11,3/13/2016 21:23,Business,North Austin,Coxville,Meal/Entertain
+224,3/13/2016 22:19,3/13/2016 22:39,Business,Coxville,The Drag,
+225,3/14/2016 8:34,3/14/2016 8:49,Business,The Drag,South Congress,Errand/Supplies
+226,3/14/2016 18:39,3/14/2016 18:55,Business,South Congress,The Drag,
+227,3/15/2016 8:45,3/15/2016 8:57,Business,The Drag,Convention Center District,Meal/Entertain
+228,3/15/2016 20:48,3/15/2016 21:01,Business,Downtown,The Drag,Meal/Entertain
+229,3/16/2016 11:34,3/16/2016 11:45,Business,The Drag,Congress Ave District,Meal/Entertain
+230,3/16/2016 14:44,3/16/2016 14:55,Business,Convention Center District,West University,
+231,3/16/2016 18:43,3/16/2016 18:56,Business,West University,Congress Ave District,Meal/Entertain
+232,3/17/2016 0:33,3/17/2016 0:44,Personal,Downtown,The Drag,
+233,3/17/2016 12:52,3/17/2016 15:11,Business,Austin,Katy,Customer Visit
+234,3/17/2016 15:16,3/17/2016 15:58,Business,Katy,Houston,Meeting
+235,3/17/2016 17:20,3/17/2016 18:02,Business,Midtown,Alief,Meal/Entertain
+236,3/17/2016 18:47,3/17/2016 19:09,Personal,Houston,Houston,
+237,3/17/2016 20:57,3/17/2016 21:28,Personal,Houston,Houston,
+238,3/17/2016 21:48,3/17/2016 22:04,Personal,Sharpstown,Midtown,
+239,3/18/2016 7:15,3/18/2016 7:21,Business,Midtown,Midtown,Meal/Entertain
+240,3/18/2016 8:35,3/18/2016 8:43,Business,Midtown,Midtown,Meal/Entertain
+241,3/18/2016 18:24,3/18/2016 19:08,Business,Midtown,Sharpstown,Meeting
+242,3/18/2016 19:23,3/18/2016 19:29,Business,Sharpstown,Sharpstown,Errand/Supplies
+243,3/18/2016 21:01,3/18/2016 21:15,Business,Sharpstown,Midtown,Customer Visit
+244,3/19/2016 9:10,3/19/2016 9:25,Business,Midtown,Sharpstown,Meal/Entertain
+245,3/19/2016 12:50,3/19/2016 13:13,Business,Houston,Sugar Land,Customer Visit
+246,3/19/2016 14:01,3/19/2016 14:57,Business,Sugar Land,Houston,Customer Visit
+247,3/19/2016 15:34,3/19/2016 16:38,Business,Houston,Galveston,Meal/Entertain
+248,3/19/2016 17:17,3/19/2016 17:32,Business,Galveston,Port Bolivar,Meal/Entertain
+249,3/19/2016 17:37,3/19/2016 17:47,Business,Port Bolivar,Port Bolivar,Errand/Supplies
+250,3/19/2016 17:52,3/19/2016 18:00,Business,Port Bolivar,Port Bolivar,
+251,3/19/2016 18:53,3/19/2016 19:29,Business,Port Bolivar,Galveston,Meeting
+252,3/19/2016 19:33,3/19/2016 20:39,Business,Galveston,Houston,Customer Visit
+253,3/20/2016 7:37,3/20/2016 7:48,Business,Midtown,Washington Avenue,Meeting
+254,3/20/2016 11:42,3/20/2016 11:56,Business,Washington Avenue,Midtown,Meeting
+255,3/20/2016 17:08,3/20/2016 17:34,Business,Midtown,Sharpstown,
+256,3/20/2016 18:34,3/20/2016 18:40,Personal,Sharpstown,Briar Meadow,
+257,3/20/2016 18:45,3/20/2016 19:06,Business,Briar Meadow,Midtown,Customer Visit
+258,3/21/2016 10:21,3/21/2016 10:26,Personal,Midtown,Downtown,
+259,3/21/2016 16:05,3/21/2016 16:13,Business,Downtown,Midtown,Meal/Entertain
+260,3/21/2016 18:59,3/21/2016 19:15,Business,Midtown,Sharpstown,
+261,3/21/2016 20:18,3/21/2016 20:55,Business,Sharpstown,Midtown,Meal/Entertain
+262,3/22/2016 6:17,3/22/2016 6:43,Business,Midtown,Greater Greenspoint,Meal/Entertain
+263,3/22/2016 12:06,3/22/2016 12:24,Personal,Morrisville,Cary,
+264,3/22/2016 19:12,3/22/2016 19:25,Personal,Whitebridge,Whitebridge,
+265,3/23/2016 14:37,3/23/2016 14:42,Personal,Whitebridge,Preston,
+266,3/23/2016 14:53,3/23/2016 14:59,Personal,Preston,Whitebridge,
+267,3/24/2016 19:47,3/24/2016 19:54,Personal,Whitebridge,Westpark Place,
+268,3/24/2016 20:34,3/24/2016 20:40,Business,Westpark Place,Whitebridge,
+269,3/25/2016 13:24,3/25/2016 16:22,Business,Cary,Latta,Customer Visit
+270,3/25/2016 16:52,3/25/2016 22:22,Business,Latta,Jacksonville,Customer Visit
+271,3/25/2016 22:54,3/26/2016 1:39,Business,Jacksonville,Kissimmee,Meeting
+272,3/26/2016 14:05,3/26/2016 14:29,Personal,Couples Glen,Isles of Buena Vista,
+273,3/26/2016 15:19,3/26/2016 15:49,Personal,Kissimmee,Orlando,
+274,3/26/2016 16:26,3/26/2016 16:30,Personal,Lake Reams,Lake Reams,
+275,3/27/2016 0:31,3/27/2016 0:40,Business,Lake Reams,Lake Reams,Errand/Supplies
+276,3/27/2016 1:11,3/27/2016 1:23,Business,Orlando,Kissimmee,Meal/Entertain
+277,3/27/2016 15:31,3/27/2016 15:56,Business,Kissimmee,Orlando,Customer Visit
+278,3/27/2016 21:26,3/27/2016 21:41,Personal,Orlando,Orlando,
+279,3/27/2016 23:04,3/27/2016 23:18,Personal,Orlando,Kissimmee,
+280,3/28/2016 12:29,3/28/2016 12:42,Personal,Kissimmee,Orlando,
+281,3/28/2016 19:30,3/28/2016 20:23,Personal,Couples Glen,Vista East,
+282,3/28/2016 22:55,3/28/2016 23:26,Personal,Orlando,Kissimmee,
+283,3/29/2016 15:27,3/29/2016 16:11,Personal,Kissimmee,Orlando,
+284,3/29/2016 18:20,3/29/2016 18:39,Personal,Sand Lake Commons,Sky Lake,
+285,3/29/2016 20:29,3/29/2016 20:44,Personal,Sky Lake,Sand Lake Commons,
+286,3/29/2016 23:04,3/29/2016 23:21,Personal,Orlando,Kissimmee,
+287,3/30/2016 22:05,3/30/2016 22:55,Business,Orlando,Kissimmee,Meal/Entertain
+288,3/31/2016 12:47,3/31/2016 13:22,Business,Kissimmee,Orlando,Temporary Site
+289,3/31/2016 14:37,3/31/2016 15:09,Business,Orlando,Kissimmee,Meal/Entertain
+290,04-01-2016 13:43,04-01-2016 14:01,Business,Kissimmee,Kissimmee,Meeting
+291,04-01-2016 14:36,04-01-2016 15:24,Business,Kissimmee,Orlando,Customer Visit
+292,04-01-2016 16:01,04-01-2016 16:49,Business,Orlando,Kissimmee,Meeting
+293,04-01-2016 16:52,04-01-2016 16:57,Personal,Kissimmee,Kissimmee,
+294,04-02-2016 08:48,04-02-2016 09:04,Personal,Kissimmee,Kissimmee,
+295,04-02-2016 11:01,04-02-2016 11:16,Personal,Kissimmee,Kissimmee,
+296,04-02-2016 12:21,04-02-2016 14:47,Business,Kissimmee,Daytona Beach,Customer Visit
+297,04-02-2016 16:57,04-02-2016 18:09,Business,Daytona Beach,Jacksonville,Customer Visit
+298,04-02-2016 19:38,04-02-2016 22:36,Business,Jacksonville,Ridgeland,Customer Visit
+299,04-02-2016 23:11,04-03-2016 01:34,Business,Ridgeland,Florence,Meeting
+300,04-03-2016 02:00,04-03-2016 04:16,Business,Florence,Cary,Meeting
+301,04-05-2016 21:39,04-05-2016 21:55,Business,Whitebridge,Wayne Ridge,Meal/Entertain
+302,04-06-2016 00:19,04-06-2016 00:39,Business,Wayne Ridge,Whitebridge,Meal/Entertain
+303,04-07-2016 18:20,04-07-2016 18:39,Business,Cary,Morrisville,Meal/Entertain
+304,04-07-2016 19:45,04-07-2016 20:00,Business,Morrisville,Cary,Errand/Supplies
+305,04-08-2016 12:30,04-08-2016 12:48,Business,Cary,Durham,Meeting
+306,04-08-2016 13:34,04-08-2016 13:51,Business,Durham,Cary,Meal/Entertain
+307,04-08-2016 13:55,04-08-2016 14:03,Business,Westpark Place,Whitebridge,Errand/Supplies
+308,04-08-2016 14:43,04-08-2016 15:20,Business,Cary,Raleigh,Meeting
+309,04-08-2016 16:05,04-08-2016 16:47,Business,Raleigh,Cary,Meeting
+310,04-12-2016 09:15,04-12-2016 09:26,Business,Whitebridge,Edgehill Farms,Errand/Supplies
+311,04-12-2016 09:34,04-12-2016 09:53,Business,Cary,Raleigh,Meeting
+312,04-12-2016 10:58,04-12-2016 11:18,Business,Meredith,Cedar Hill,Customer Visit
+313,04-12-2016 12:22,04-12-2016 12:44,Business,Raleigh,Morrisville,Meeting
+314,04-12-2016 13:42,04-12-2016 14:01,Business,Morrisville,Cary,Meal/Entertain
+315,4/14/2016 7:29,4/14/2016 8:09,Business,Cary,Holly Springs,Temporary Site
+316,4/14/2016 16:00,4/14/2016 16:43,Business,Holly Springs,Cary,Temporary Site
+317,4/15/2016 11:36,4/15/2016 12:07,Business,Cary,Raleigh,Temporary Site
+318,4/15/2016 12:29,4/15/2016 12:32,Business,Meredith Townes,Harden Place,Errand/Supplies
+319,4/15/2016 14:31,4/15/2016 15:01,Business,Raleigh,Cary,Meeting
+320,4/16/2016 12:59,4/16/2016 13:17,Business,Cary,Morrisville,Errand/Supplies
+321,4/16/2016 15:10,4/16/2016 15:26,Business,Morrisville,Cary,Meal/Entertain
+322,4/19/2016 17:44,4/19/2016 18:08,Business,Whitebridge,Wayne Ridge,Meal/Entertain
+323,4/19/2016 19:57,4/19/2016 20:19,Business,Wayne Ridge,Whitebridge,Meal/Entertain
+324,4/22/2016 8:25,4/22/2016 9:04,Business,Cary,Raleigh,Meeting
+325,4/22/2016 10:10,4/22/2016 10:40,Business,Raleigh,Cary,Meeting
+326,4/22/2016 12:08,4/22/2016 12:28,Business,Cary,Durham,Meeting
+327,4/22/2016 13:02,4/22/2016 13:26,Business,Durham,Cary,Meeting
+328,4/23/2016 17:03,4/23/2016 17:16,Business,Whitebridge,Tanglewood,Meal/Entertain
+329,4/23/2016 18:49,4/23/2016 19:05,Business,Tanglewood,Whitebridge,Meal/Entertain
+330,4/24/2016 19:07,4/24/2016 19:16,Business,Cary,Morrisville,Errand/Supplies
+331,4/24/2016 19:46,4/24/2016 19:52,Business,Chessington,Chessington,Errand/Supplies
+332,4/24/2016 21:41,4/24/2016 21:50,Business,Morrisville,Cary,Between Offices
+333,4/27/2016 13:30,4/27/2016 13:40,Business,Whitebridge,Burtrose,Between Offices
+334,4/27/2016 14:13,4/27/2016 14:25,Business,Burtrose,Whitebridge,Between Offices
+335,4/28/2016 12:09,4/28/2016 12:34,Business,Cary,Raleigh,Customer Visit
+336,4/28/2016 13:30,4/28/2016 13:49,Business,Raleigh,Cary,Customer Visit
+337,4/28/2016 22:10,4/28/2016 22:28,Business,Morrisville,Cary,Customer Visit
+338,4/29/2016 11:44,4/29/2016 12:01,Business,Cary,Durham,Meeting
+339,4/29/2016 13:13,4/29/2016 13:34,Business,Durham,Cary,Meeting
+340,4/29/2016 18:46,4/29/2016 19:18,Business,Cary,Durham,Customer Visit
+341,4/29/2016 22:44,4/29/2016 23:19,Business,Durham,Cary,Meeting
+342,4/30/2016 18:42,4/30/2016 18:57,Business,Whitebridge,Waverly Place,Meal/Entertain
+343,4/30/2016 22:16,4/30/2016 22:34,Business,Waverly Place,Whitebridge,
+344,05-01-2016 13:45,05-01-2016 13:53,Business,Whitebridge,Westpark Place,Meal/Entertain
+345,05-01-2016 14:26,05-01-2016 14:31,Business,Westpark Place,Whitebridge,
+346,05-01-2016 17:33,05-01-2016 17:45,Business,Whitebridge,Tanglewood,Between Offices
+347,05-01-2016 17:54,05-01-2016 18:10,Business,Tanglewood,Parkway,Meeting
+348,05-01-2016 22:38,05-01-2016 22:49,Business,Parkway,Whitebridge,Errand/Supplies
+349,05-02-2016 14:14,05-02-2016 14:21,Business,Whitebridge,Westpark Place,Errand/Supplies
+350,05-02-2016 15:37,05-02-2016 15:48,Business,Westpark Place,Whitebridge,Meal/Entertain
+351,05-03-2016 22:20,05-03-2016 22:28,Business,Morrisville,Cary,Meal/Entertain
+352,05-04-2016 15:16,05-04-2016 15:37,Business,Cary,Morrisville,Meal/Entertain
+353,05-04-2016 20:55,05-04-2016 21:14,Business,Mcvan,Capitol One,Errand/Supplies
+354,05-04-2016 21:30,05-04-2016 21:36,Business,Capitol One,University District,Meal/Entertain
+355,05-04-2016 22:19,05-04-2016 22:27,Business,University District,Capitol One,Meal/Entertain
+356,05-05-2016 21:24,05-05-2016 21:36,Business,Seattle,Redmond,Meal/Entertain
+357,05-05-2016 22:34,05-05-2016 22:40,Business,Redmond,Bellevue,Errand/Supplies
+358,05-05-2016 23:55,05-06-2016 00:08,Business,Bellevue,Seattle,Meeting
+359,05-06-2016 05:47,05-06-2016 06:02,Business,Capitol One,Mcvan,Meeting
+360,05-06-2016 16:45,05-06-2016 16:59,Business,Chapel Hill,Morrisville,Meeting
+361,05-06-2016 17:18,05-06-2016 17:44,Business,Morrisville,Cary,Customer Visit
+362,05-09-2016 06:08,05-09-2016 06:25,Business,Cary,Morrisville,Customer Visit
+363,05-09-2016 14:39,05-09-2016 15:06,Business,San Francisco,Palo Alto,Between Offices
+364,05-09-2016 17:58,05-09-2016 18:26,Business,Palo Alto,Sunnyvale,Customer Visit
+365,05-09-2016 19:35,05-09-2016 19:59,Business,Sunnyvale,Newark,Customer Visit
+366,05-10-2016 09:03,05-10-2016 09:20,Business,Newark,Menlo Park,Customer Visit
+367,05-10-2016 17:19,05-10-2016 17:31,Business,Menlo Park,Newark,Customer Visit
+368,05-11-2016 08:35,05-11-2016 09:12,Business,Newark,San Francisco,Meeting
+369,05-11-2016 21:47,05-11-2016 22:04,Business,Morrisville,Cary,Meeting
+370,5/14/2016 18:35,5/14/2016 18:39,Business,Cary,Morrisville,Meal/Entertain
+371,5/14/2016 23:01,5/14/2016 23:05,Business,Morrisville,Cary,Meal/Entertain
+372,5/17/2016 13:15,5/17/2016 13:23,Business,Whitebridge,Preston,Errand/Supplies
+373,5/17/2016 13:56,5/17/2016 14:08,Business,Preston,Westpark Place,Errand/Supplies
+374,5/17/2016 14:34,5/17/2016 14:40,Business,Westpark Place,Whitebridge,Errand/Supplies
+375,5/18/2016 9:11,5/18/2016 9:41,Business,Cary,Morrisville,Customer Visit
+376,5/18/2016 13:00,5/18/2016 13:02,Business,Morrisville,Raleigh,Customer Visit
+377,5/19/2016 14:37,5/19/2016 15:01,Business,Old City,Parkway Museums,Meal/Entertain
+378,5/20/2016 10:56,5/20/2016 11:07,Business,Old City,Hog Island,Meeting
+379,5/20/2016 15:43,5/20/2016 16:12,Business,Morrisville,Cary,Meal/Entertain
+380,5/22/2016 15:39,5/22/2016 15:46,Business,Cary,Morrisville,Meal/Entertain
+381,5/22/2016 18:46,5/22/2016 18:53,Business,Morrisville,Cary,Meal/Entertain
+382,5/23/2016 20:19,5/23/2016 20:27,Business,Whitebridge,Savon Height,Meal/Entertain
+383,5/23/2016 21:09,5/23/2016 21:21,Business,Savon Height,Whitebridge,Errand/Supplies
+384,5/27/2016 20:26,5/27/2016 20:30,Business,Whitebridge,Kildaire Farms,Errand/Supplies
+385,5/27/2016 20:47,5/27/2016 20:53,Business,Savon Height,Kilarney Woods,
+386,5/27/2016 22:11,5/27/2016 22:14,Business,Kilarney Woods,Kildaire Farms,Errand/Supplies
+387,5/28/2016 0:15,5/28/2016 0:21,Business,Kilarney Woods,Whitebridge,Errand/Supplies
+388,5/28/2016 12:52,5/28/2016 13:06,Business,Cary,Morrisville,Meal/Entertain
+389,5/28/2016 14:35,5/28/2016 15:04,Business,Morrisville,Cary,Customer Visit
+390,5/31/2016 13:54,5/31/2016 14:41,Business,Cary,Raleigh,Meeting
+391,5/31/2016 16:02,5/31/2016 16:39,Business,Raleigh,Cary,Meeting
+392,5/31/2016 17:50,5/31/2016 17:59,Business,Westpark Place,Whitebridge,
+393,06-01-2016 10:19,06-01-2016 10:47,Business,Cary,Morrisville,Customer Visit
+394,06-01-2016 13:10,06-01-2016 13:39,Business,Morrisville,Cary,Meeting
+395,06-03-2016 11:29,06-03-2016 11:49,Business,Cary,Durham,Meeting
+396,06-03-2016 13:08,06-03-2016 13:38,Business,Durham,Cary,Meeting
+397,06-03-2016 15:31,06-03-2016 15:54,Business,Cary,Morrisville,Meal/Entertain
+398,06-03-2016 18:14,06-03-2016 18:29,Business,Townes at Everett Crossing,Chessington,Errand/Supplies
+399,06-03-2016 18:41,06-03-2016 18:53,Business,Morrisville,Cary,Errand/Supplies
+400,06-03-2016 19:36,06-03-2016 19:42,Business,Huntington Woods,Weston,Errand/Supplies
+401,06-03-2016 22:47,06-03-2016 23:06,Business,Morrisville,Cary,Between Offices
+402,06-05-2016 14:03,06-05-2016 14:33,Business,Whitebridge,Savon Height,Customer Visit
+403,06-05-2016 15:06,06-05-2016 15:22,Business,Cary,Morrisville,Customer Visit
+404,06-05-2016 15:57,06-05-2016 16:08,Business,Weston,Weston,Meal/Entertain
+405,06-05-2016 18:05,06-05-2016 18:14,Business,Morrisville,Cary,Meal/Entertain
+406,06-05-2016 21:53,06-05-2016 22:05,Business,Cary,Durham,Meeting
+407,06-05-2016 23:52,06-06-2016 00:08,Business,Durham,Cary,Meeting
+408,06-06-2016 15:36,06-06-2016 15:45,Business,Whitebridge,Hazelwood,Errand/Supplies
+409,06-06-2016 16:16,06-06-2016 16:24,Business,Hazelwood,Whitebridge,Errand/Supplies
+410,06-06-2016 20:06,06-06-2016 20:20,Business,Cary,Apex,Meal/Entertain
+411,06-06-2016 21:08,06-06-2016 21:37,Business,Apex,Cary,Meal/Entertain
+412,06-06-2016 21:41,06-06-2016 22:00,Business,Cary,Durham,Meeting
+413,06-06-2016 23:34,06-06-2016 23:48,Business,Durham,Cary,Meeting
+414,06-07-2016 21:42,06-07-2016 22:00,Business,Cary,Durham,Meeting
+415,06-07-2016 23:41,06-08-2016 00:04,Business,Durham,Cary,Meeting
+416,06-08-2016 08:23,06-08-2016 08:53,Business,Cary,Morrisville,Meal/Entertain
+417,06-08-2016 12:04,06-08-2016 13:01,Business,Jamaica,New York,Errand/Supplies
+418,06-08-2016 13:12,06-08-2016 13:29,Business,Seaport,Gramercy-Flatiron,Meal/Entertain
+419,06-08-2016 14:31,06-08-2016 14:37,Business,Medical Centre,Tudor City,Errand/Supplies
+420,06-08-2016 16:55,06-08-2016 17:11,Business,Rose Hill,Soho,Meal/Entertain
+421,06-08-2016 17:16,06-08-2016 17:18,Business,Soho,Tribeca,Errand/Supplies
+422,06-08-2016 17:59,06-08-2016 18:05,Business,Tribeca,Financial District,Errand/Supplies
+423,06-08-2016 20:11,06-08-2016 20:25,Business,Financial District,Kips Bay,Errand/Supplies
+424,06-10-2016 15:19,06-10-2016 16:28,Business,New York,Jamaica,Meeting
+425,06-10-2016 21:47,06-10-2016 22:04,Business,Cary,Durham,Meeting
+426,06-10-2016 23:53,06-11-2016 00:01,Business,Durham,Cary,Meeting
+427,06-11-2016 17:08,06-11-2016 17:16,Business,Cary,Morrisville,Errand/Supplies
+428,06-11-2016 17:34,06-11-2016 17:39,Business,Morrisville,Cary,Meal/Entertain
+429,06-11-2016 17:50,06-11-2016 17:56,Business,Westpark Place,Whitebridge,
+430,06-11-2016 21:45,06-11-2016 22:04,Business,Cary,Durham,Meeting
+431,06-11-2016 23:39,06-12-2016 00:05,Business,Durham,Cary,Meeting
+432,06-12-2016 19:53,06-12-2016 19:56,Business,Cary,Morrisville,Meal/Entertain
+433,06-12-2016 20:05,06-12-2016 20:16,Business,Morrisville,Cary,Errand/Supplies
+434,06-12-2016 21:58,06-12-2016 22:19,Business,Parkway,Whitebridge,Errand/Supplies
+435,6/13/2016 5:23,6/13/2016 5:42,Business,Cary,Morrisville,Meal/Entertain
+436,6/13/2016 14:17,6/13/2016 14:46,Business,Oakland,Emeryville,Meeting
+437,6/13/2016 18:08,6/13/2016 18:47,Business,Emeryville,Berkeley,Meal/Entertain
+438,6/13/2016 18:54,6/13/2016 19:23,Business,Berkeley,Oakland,Meal/Entertain
+439,6/13/2016 20:00,6/13/2016 20:05,Business,Oakland,Unknown Location,Customer Visit
+440,6/14/2016 12:03,6/14/2016 12:21,Business,Emeryville,San Francisco,
+441,6/14/2016 16:09,6/14/2016 16:39,Business,San Francisco,Emeryville,Meeting
+442,6/14/2016 17:15,6/14/2016 17:24,Business,Emeryville,Oakland,Meeting
+443,6/14/2016 17:27,6/14/2016 17:57,Business,Downtown,Bay Farm Island,Errand/Supplies
+444,6/15/2016 1:46,6/15/2016 2:06,Business,Kenner,New Orleans,Between Offices
+445,6/15/2016 15:26,6/15/2016 15:34,Business,CBD,Lower Garden District,Between Offices
+446,6/15/2016 16:37,6/15/2016 17:02,Business,Lower Garden District,Lakeview,Customer Visit
+447,6/15/2016 17:29,6/15/2016 17:49,Personal,Lakeview,Storyville,
+448,6/15/2016 19:52,6/15/2016 19:58,Business,Storyville,Faubourg Marigny,Meal/Entertain
+449,6/16/2016 13:36,6/16/2016 14:30,Business,New Orleans,Metairie,
+450,6/16/2016 14:42,6/16/2016 14:46,Business,Metairie,Kenner,
+451,6/16/2016 15:17,6/16/2016 15:41,Business,Kenner,New Orleans,
+452,6/16/2016 19:39,6/16/2016 19:56,Business,New Orleans,Kenner,
+453,6/16/2016 21:43,6/16/2016 21:56,Business,Kenner,New Orleans,
+454,6/17/2016 16:11,6/17/2016 16:44,Business,New Orleans,Kenner,
+455,6/18/2016 0:29,6/18/2016 0:51,Business,Morrisville,Cary,
+456,6/19/2016 2:39,6/19/2016 2:50,Business,Cary,Raleigh,
+457,6/19/2016 5:51,6/19/2016 6:00,Business,Raleigh,Cary,
+458,6/21/2016 15:39,6/21/2016 16:08,Business,Cary,Raleigh,
+459,6/21/2016 17:11,6/21/2016 18:02,Business,Raleigh,Cary,Meal/Entertain
+460,6/24/2016 10:41,6/24/2016 10:57,Business,Whitebridge,Waverly Place,Meal/Entertain
+461,6/24/2016 11:54,6/24/2016 12:01,Business,Waverly Place,Macgregor Downs,Meal/Entertain
+462,6/24/2016 12:19,6/24/2016 12:37,Business,Cary,Raleigh,Errand/Supplies
+463,6/24/2016 12:50,6/24/2016 13:12,Business,Raleigh,Morrisville,Errand/Supplies
+464,6/24/2016 13:18,6/24/2016 13:27,Business,Morrisville,Cary,Errand/Supplies
+465,6/24/2016 14:01,6/24/2016 14:20,Business,Cary,Morrisville,Temporary Site
+466,6/24/2016 20:44,6/24/2016 21:02,Business,Kenner,New Orleans,
+467,6/25/2016 9:03,6/25/2016 9:12,Business,CBD,Bywater,
+468,6/25/2016 9:15,6/25/2016 10:08,Business,New Orleans,Chalmette,Between Offices
+469,6/25/2016 10:18,6/25/2016 10:25,Business,Chalmette,Arabi,Errand/Supplies
+470,6/25/2016 10:50,6/25/2016 11:18,Business,Arabi,Metairie,Meal/Entertain
+471,6/25/2016 11:25,6/25/2016 11:34,Business,Pontchartrain Shores,Pontchartrain Shores,Meeting
+472,6/25/2016 11:53,6/25/2016 13:21,Business,Metairie,New Orleans,Meeting
+473,6/25/2016 19:47,6/25/2016 19:58,Business,Storyville,Marigny,
+474,6/25/2016 23:19,6/25/2016 23:26,Business,Marigny,Storyville,
+475,6/26/2016 17:43,6/26/2016 18:18,Business,New Orleans,Kenner,Meeting
+476,6/26/2016 18:45,6/26/2016 19:12,Business,Pontchartrain Shores,Pontchartrain Shores,
+477,6/26/2016 19:41,6/26/2016 19:50,Business,Kenner,Kenner,
+478,6/26/2016 21:14,6/26/2016 21:42,Business,Kenner,New Orleans,
+479,6/27/2016 7:37,6/27/2016 8:48,Business,New Orleans,Covington,
+480,6/27/2016 8:51,6/27/2016 9:00,Business,Covington,Covington,
+481,6/27/2016 9:05,6/27/2016 9:33,Business,Covington,Covington,
+482,6/27/2016 9:43,6/27/2016 10:08,Business,Covington,Covington,
+483,6/27/2016 10:22,6/27/2016 10:39,Business,Covington,Covington,
+484,6/27/2016 10:51,6/27/2016 10:58,Business,Covington,Covington,
+485,6/27/2016 11:06,6/27/2016 11:24,Business,Covington,Mandeville,
+486,6/27/2016 11:30,6/27/2016 11:42,Business,Mandeville,Mandeville,
+487,6/27/2016 12:22,6/27/2016 13:02,Business,Mandeville,Metairie,
+488,6/27/2016 13:56,6/27/2016 14:05,Business,Metairie,Kenner,
+489,6/27/2016 21:09,6/27/2016 21:19,Business,Jamestown Court,Jamestown Court,
+490,6/28/2016 0:48,6/28/2016 1:05,Business,Morrisville,Cary,Customer Visit
+491,6/28/2016 20:13,6/28/2016 20:33,Business,Cary,Durham,Meeting
+492,6/28/2016 23:34,6/28/2016 23:59,Business,Durham,Cary,Meeting
+493,6/28/2016 23:34,6/28/2016 23:59,Business,Durham,Cary,Meeting
+494,6/29/2016 8:56,6/29/2016 9:24,Business,Cary,Morrisville,
+495,6/29/2016 10:22,6/29/2016 10:38,Business,Morrisville,Cary,
+496,6/29/2016 11:49,6/29/2016 11:51,Business,Whitebridge,Westpark Place,
+497,6/29/2016 12:11,6/29/2016 12:16,Business,Westpark Place,Whitebridge,
+498,6/29/2016 20:11,6/29/2016 20:29,Business,Cary,Durham,Meeting
+499,6/29/2016 23:38,6/30/2016 0:00,Business,Durham,Cary,Meeting
+500,6/30/2016 20:09,6/30/2016 20:26,Business,Cary,Durham,Meeting
+501,07-01-2016 00:00,07-01-2016 00:25,Business,Durham,Cary,Meeting
+502,07-01-2016 09:34,07-01-2016 09:57,Business,Cary,Raleigh,Meeting
+503,07-01-2016 12:36,07-01-2016 13:00,Business,Raleigh,Cary,Meeting
+504,07-01-2016 20:06,07-01-2016 20:24,Business,Cary,Durham,Meeting
+505,07-01-2016 23:48,07-02-2016 00:09,Business,Durham,Cary,Meeting
+506,07-02-2016 20:18,07-02-2016 20:36,Business,Cary,Durham,Meeting
+507,07-02-2016 23:48,07-03-2016 00:12,Business,Durham,Cary,Meeting
+508,07-03-2016 00:28,07-03-2016 00:38,Business,Cary,Morrisville,Errand/Supplies
+509,07-03-2016 03:02,07-03-2016 03:08,Business,Morrisville,Cary,Errand/Supplies
+510,07-03-2016 20:00,07-03-2016 20:18,Business,Cary,Durham,Meeting
+511,07-04-2016 00:32,07-04-2016 00:47,Business,Durham,Cary,Meeting
+512,07-04-2016 17:31,07-04-2016 17:49,Business,Whitebridge,Summerwinds,Meeting
+513,07-04-2016 18:23,07-04-2016 18:49,Business,Summerwinds,Whitebridge,Temporary Site
+514,07-04-2016 20:00,07-04-2016 20:17,Business,Cary,Durham,Meeting
+515,07-05-2016 00:00,07-05-2016 00:05,Business,Parkwood,Parkwood,Errand/Supplies
+516,07-05-2016 00:08,07-05-2016 00:28,Business,Durham,Cary,Meeting
+517,07-05-2016 16:48,07-05-2016 16:52,Business,Whitebridge,Whitebridge,Errand/Supplies
+518,07-05-2016 20:06,07-05-2016 20:26,Business,Cary,Durham,
+519,07-05-2016 22:41,07-05-2016 23:02,Business,Durham,Morrisville,
+520,07-06-2016 00:33,07-06-2016 00:53,Business,Morrisville,Cary,Meal/Entertain
+521,07-06-2016 09:06,07-06-2016 09:25,Business,Cary,Durham,Meeting
+522,07-06-2016 12:48,07-06-2016 13:08,Business,Durham,Cary,
+523,07-06-2016 20:04,07-06-2016 20:14,Business,Cary,Morrisville,Meal/Entertain
+524,07-06-2016 23:46,07-06-2016 23:59,Business,Morrisville,Cary,Customer Visit
+525,07-07-2016 08:22,07-07-2016 08:50,Business,Cary,Morrisville,Temporary Site
+526,07-07-2016 10:27,07-07-2016 10:33,Business,Morrisville,Cary,
+527,07-07-2016 12:59,07-07-2016 13:35,Business,Kenner,New Orleans,
+528,07-08-2016 09:50,07-08-2016 10:13,Business,CBD,Pontchartrain Beach,
+529,07-08-2016 10:51,07-08-2016 11:12,Business,Pontchartrain Beach,CBD,
+530,07-08-2016 13:48,07-08-2016 14:11,Business,New Orleans,Metairie,
+531,07-08-2016 17:11,07-08-2016 17:30,Business,Kenner,New Orleans,
+532,07-09-2016 09:03,07-09-2016 09:46,Business,New Orleans,Kenner,
+533,07-09-2016 09:52,07-09-2016 10:06,Business,Kenner,Metairie,
+534,07-09-2016 10:15,07-09-2016 10:33,Business,Metairie,New Orleans,
+535,07-10-2016 14:10,07-10-2016 14:17,Business,CBD,St Thomas,
+536,07-10-2016 16:04,07-10-2016 16:15,Business,St Thomas,CBD,
+537,07-10-2016 18:05,07-10-2016 18:21,Business,New Orleans,Kenner,
+538,07-10-2016 19:51,07-10-2016 20:08,Business,Kenner,New Orleans,
+539,07-12-2016 16:10,07-12-2016 16:45,Business,New Orleans,Kenner,
+540,07-12-2016 19:21,07-12-2016 19:26,Personal,Kenner,Kenner,
+541,07-12-2016 23:47,7/13/2016 0:11,Personal,Morrisville,Cary,
+542,7/13/2016 12:39,7/13/2016 13:20,Personal,Cary,Morrisville,
+543,7/13/2016 13:25,7/13/2016 13:39,Personal,Morrisville,Morrisville,
+544,7/13/2016 13:42,7/13/2016 13:54,Personal,Morrisville,Cary,
+545,7/14/2016 15:51,7/14/2016 15:59,Personal,Cary,Morrisville,
+546,7/14/2016 16:03,7/14/2016 16:34,Business,Morrisville,Morrisville,Errand/Supplies
+547,7/14/2016 16:39,7/14/2016 20:05,Business,Morrisville,Banner Elk,
+548,7/15/2016 11:32,7/15/2016 11:53,Personal,Banner Elk,Banner Elk,
+549,7/15/2016 12:09,7/15/2016 12:19,Personal,Banner Elk,Banner Elk,
+550,7/15/2016 12:35,7/15/2016 13:15,Personal,Banner Elk,Elk Park,
+551,7/15/2016 15:03,7/15/2016 15:33,Personal,Elk Park,Banner Elk,
+552,7/15/2016 15:40,7/15/2016 15:52,Personal,Banner Elk,Banner Elk,
+553,7/16/2016 13:14,7/16/2016 14:10,Personal,Banner Elk,Newland,
+554,7/16/2016 14:14,7/16/2016 14:30,Personal,Newland,Newland,
+555,7/16/2016 15:29,7/16/2016 16:57,Personal,Newland,Boone,
+556,7/16/2016 19:42,7/16/2016 20:35,Personal,Boone,Banner Elk,
+557,7/16/2016 21:45,7/16/2016 22:18,Personal,Banner Elk,Banner Elk,
+558,7/16/2016 22:50,7/16/2016 23:03,Business,Banner Elk,Banner Elk,Errand/Supplies
+559,7/17/2016 11:23,7/17/2016 11:50,Personal,Banner Elk,Boone,Charity ($)
+560,7/17/2016 12:20,7/17/2016 15:25,Personal,Boone,Cary,Commute
+561,7/18/2016 10:37,7/18/2016 10:49,Personal,Cary,Morrisville,Moving
+562,7/18/2016 10:54,7/18/2016 11:15,Personal,Morrisville,Cary,Moving
+563,7/18/2016 11:25,7/18/2016 11:36,Personal,Northwoods,Preston,Moving
+564,7/18/2016 11:40,7/18/2016 11:56,Personal,Preston,Whitebridge,Moving
+565,7/18/2016 17:12,7/18/2016 17:33,Business,Cary,Apex,Meeting
+566,7/18/2016 18:32,7/18/2016 18:47,Business,Apex,Cary,Meal/Entertain
+567,7/18/2016 19:07,7/18/2016 19:14,Business,Cary,Morrisville,Meal/Entertain
+568,7/18/2016 20:28,7/18/2016 20:32,Business,Hazelwood,Weston,Errand/Supplies
+569,7/18/2016 21:11,7/18/2016 21:19,Business,Morrisville,Cary,Meal/Entertain
+570,7/19/2016 10:35,7/19/2016 10:51,Business,Whitebridge,Stonewater,Customer Visit
+571,7/19/2016 10:56,7/19/2016 11:11,Business,Stonewater,Lexington Park at Amberly,Meeting
+572,7/19/2016 11:30,7/19/2016 12:00,Business,Lexington Park at Amberly,Whitebridge,Meal/Entertain
+573,7/19/2016 17:14,7/19/2016 17:24,Business,Whitebridge,Chessington,Errand/Supplies
+574,7/19/2016 17:50,7/19/2016 18:08,Personal,Chessington,Whitebridge,
+575,7/20/2016 17:12,7/20/2016 17:24,Personal,Whitebridge,Edgehill Farms,
+576,7/20/2016 17:50,7/20/2016 17:57,Personal,Edgehill Farms,Preston,
+577,7/20/2016 18:16,7/20/2016 18:20,Personal,Preston,Whitebridge,
+578,7/21/2016 17:17,7/21/2016 17:23,Business,Whitebridge,Edgehill Farms,
+579,7/21/2016 17:42,7/21/2016 17:51,Business,Edgehill Farms,Burtrose,
+580,7/21/2016 18:27,7/21/2016 18:42,Business,Cary,Morrisville,
+581,7/21/2016 19:30,7/21/2016 19:39,Business,Morrisville,Cary,
+582,7/22/2016 10:42,7/22/2016 10:53,Business,Cary,Morrisville,
+583,7/22/2016 11:11,7/22/2016 11:25,Business,Morrisville,Cary,
+584,7/22/2016 11:37,7/22/2016 12:00,Business,Hazelwood,Lexington Park at Amberly,
+585,7/22/2016 12:14,7/22/2016 12:31,Business,Cary,Durham,
+586,7/22/2016 13:21,7/22/2016 13:42,Business,Durham,Cary,Meeting
+587,7/22/2016 14:27,7/22/2016 14:43,Business,Cary,Morrisville,Meal/Entertain
+588,7/22/2016 15:49,7/22/2016 16:22,Business,Morrisville,Cary,
+589,7/22/2016 18:33,7/22/2016 18:51,Business,Wayne Ridge,Whitebridge,
+590,7/23/2016 14:27,7/23/2016 14:44,Business,Cary,Morrisville,
+591,7/23/2016 14:48,7/23/2016 15:12,Business,Morrisville,Cary,
+592,7/23/2016 15:15,7/23/2016 15:27,Business,Cary,Morrisville,
+593,7/23/2016 15:50,7/23/2016 16:10,Business,Morrisville,Cary,
+594,7/23/2016 20:17,7/23/2016 20:33,Business,Cary,Durham,Meeting
+595,7/23/2016 23:18,7/23/2016 23:43,Business,Durham,Cary,Meeting
+596,7/25/2016 10:35,7/25/2016 10:41,Business,Whitebridge,Parkway,
+597,7/25/2016 10:47,7/25/2016 10:58,Business,Cary,Morrisville,
+598,7/25/2016 11:04,7/25/2016 11:33,Business,Morrisville,Cary,
+599,7/25/2016 11:37,7/25/2016 11:44,Business,Parkway,Whitebridge,
+600,7/26/2016 15:43,7/26/2016 15:49,Business,Whitebridge,Westpark Place,
+601,7/26/2016 17:14,7/26/2016 17:24,Business,Westpark Place,Whitebridge,
+602,7/26/2016 20:52,7/26/2016 21:00,Business,Cary,Morrisville,Meal/Entertain
+603,7/26/2016 22:31,7/26/2016 22:39,Business,Morrisville,Cary,Meal/Entertain
+604,7/27/2016 19:08,7/27/2016 19:20,Business,Cary,Morrisville,
+605,7/27/2016 21:34,7/27/2016 21:57,Business,Morrisville,Raleigh,
+606,7/27/2016 22:00,7/27/2016 22:26,Business,Raleigh,Morrisville,
+607,7/28/2016 0:04,7/28/2016 0:09,Business,Morrisville,Cary,
+608,7/29/2016 15:45,7/29/2016 15:47,Business,Whitebridge,Westpark Place,
+609,7/29/2016 17:27,7/29/2016 17:45,Business,Westpark Place,Whitebridge,Meal/Entertain
+610,7/30/2016 17:02,7/30/2016 17:27,Business,Cary,Durham,
+611,7/30/2016 21:16,7/30/2016 21:41,Business,Durham,Cary,
+612,7/31/2016 17:30,7/31/2016 17:37,Business,Westpark Place,Whitebridge,
+613,08-01-2016 12:47,08-01-2016 13:04,Business,Whitebridge,Arlington Park at Amberly,
+614,08-01-2016 13:08,08-01-2016 13:19,Business,Arlington Park at Amberly,Lexington Park at Amberly,
+615,08-01-2016 13:28,08-01-2016 13:46,Business,Lexington Park at Amberly,Westpark Place,
+616,08-01-2016 13:52,08-01-2016 14:14,Business,Cary,Apex,
+617,08-01-2016 15:40,08-01-2016 15:47,Business,Apex,Cary,
+618,08-01-2016 16:18,08-01-2016 16:25,Business,Whitebridge,Edgehill Farms,
+619,08-01-2016 16:29,08-01-2016 16:59,Business,Cary,Morrisville,
+620,08-01-2016 17:23,08-01-2016 17:55,Business,Morrisville,Cary,
+621,08-02-2016 08:11,08-02-2016 08:32,Business,Cary,Morrisville,Meeting
+622,08-02-2016 11:51,08-02-2016 12:15,Business,Arlington,Washington,
+623,08-02-2016 19:15,08-02-2016 19:23,Business,Kalorama Triangle,K Street,
+624,08-02-2016 21:23,08-02-2016 21:29,Business,K Street,Kalorama Triangle,
+625,08-03-2016 12:46,08-03-2016 13:00,Business,West End,Northwest Rectangle,
+626,08-03-2016 14:59,08-03-2016 15:03,Business,K Street,Kalorama Triangle,
+627,08-03-2016 16:00,08-03-2016 16:04,Business,Kalorama Triangle,Downtown,
+628,08-05-2016 17:23,08-05-2016 17:30,Business,Connecticut Avenue,Kalorama Triangle,
+629,08-05-2016 18:17,08-05-2016 18:21,Business,Kalorama Triangle,Columbia Heights,
+630,08-05-2016 19:17,08-05-2016 19:27,Business,Columbia Heights,Kalorama Triangle,
+631,08-06-2016 06:40,08-06-2016 06:58,Business,Washington,Arlington,
+632,08-06-2016 09:31,08-06-2016 09:53,Business,Morrisville,Cary,
+633,08-07-2016 17:14,08-07-2016 17:23,Business,Whitebridge,Edgehill Farms,
+634,08-07-2016 17:28,08-07-2016 17:43,Business,Edgehill Farms,Whitebridge,Customer Visit
+635,08-07-2016 18:17,08-07-2016 18:23,Business,Cary,Morrisville,
+636,08-07-2016 20:15,08-07-2016 20:23,Business,Morrisville,Cary,Meal/Entertain
+637,08-08-2016 16:17,08-08-2016 16:31,Business,Whitebridge,Farmington Woods,
+638,08-08-2016 16:37,08-08-2016 16:50,Business,Farmington Woods,Edgehill Farms,
+639,08-08-2016 17:02,08-08-2016 17:13,Business,Edgehill Farms,Whitebridge,Customer Visit
+640,08-08-2016 21:50,08-08-2016 22:15,Business,Cary,Morrisville,
+641,08-08-2016 23:28,08-08-2016 23:37,Business,Morrisville,Cary,Customer Visit
+642,08-09-2016 14:20,08-09-2016 14:38,Business,Whitebridge,Waverly Place,
+643,08-09-2016 15:15,08-09-2016 15:36,Business,Cary,Raleigh,
+644,08-09-2016 16:04,08-09-2016 16:37,Business,Raleigh,Cary,
+645,08-10-2016 16:56,08-10-2016 17:24,Business,Cary,Durham,
+646,08-10-2016 17:53,08-10-2016 18:28,Business,Durham,Apex,
+647,08-10-2016 18:49,08-10-2016 18:50,Business,Apex,Apex,
+648,08-10-2016 19:47,08-10-2016 20:02,Business,Apex,Cary,
+649,08-11-2016 12:53,08-11-2016 13:00,Business,Whitebridge,Heritage Pines,
+650,08-11-2016 13:14,08-11-2016 13:28,Business,Heritage Pines,Edgehill Farms,
+651,08-11-2016 13:32,08-11-2016 13:42,Business,Edgehill Farms,Whitebridge,
+652,08-11-2016 18:37,08-11-2016 19:29,Business,Cary,Wake Forest,
+653,08-11-2016 20:59,08-11-2016 21:44,Business,Wake Forest,Cary,
+654,08-12-2016 18:49,08-12-2016 18:52,Business,Whitebridge,Westpark Place,
+655,08-12-2016 18:56,08-12-2016 19:05,Business,Westpark Place,Whitebridge,
+656,8/13/2016 15:35,8/13/2016 15:58,Business,Cary,Morrisville,Meeting
+657,8/15/2016 9:05,8/15/2016 9:52,Business,R?walpindi,Unknown Location,
+658,8/15/2016 15:20,8/15/2016 15:47,Business,Unknown Location,Unknown Location,
+659,8/15/2016 16:52,8/15/2016 17:30,Business,Unknown Location,Unknown Location,
+660,8/15/2016 19:08,8/15/2016 20:30,Business,Unknown Location,Unknown Location,Temporary Site
+661,8/16/2016 7:58,8/16/2016 8:11,Business,Unknown Location,Unknown Location,
+662,8/16/2016 8:16,8/16/2016 8:23,Business,Unknown Location,Unknown Location,
+663,8/16/2016 8:46,8/16/2016 8:53,Business,Unknown Location,Unknown Location,
+664,8/16/2016 10:06,8/16/2016 10:27,Business,Unknown Location,Islamabad,
+665,8/16/2016 10:31,8/16/2016 10:38,Business,Islamabad,Islamabad,
+666,8/16/2016 11:47,8/16/2016 12:03,Business,Islamabad,Unknown Location,Temporary Site
+667,8/16/2016 15:13,8/16/2016 15:36,Business,Unknown Location,Unknown Location,
+668,8/17/2016 10:17,8/17/2016 10:41,Business,Unknown Location,Unknown Location,
+669,8/17/2016 10:57,8/17/2016 11:20,Business,Unknown Location,Unknown Location,
+670,8/17/2016 14:45,8/17/2016 14:50,Business,Unknown Location,R?walpindi,
+671,8/17/2016 15:32,8/17/2016 15:47,Business,R?walpindi,Islamabad,
+672,8/17/2016 16:29,8/17/2016 16:50,Business,Islamabad,Unknown Location,
+673,8/17/2016 16:54,8/17/2016 17:00,Business,Unknown Location,Unknown Location,
+674,8/17/2016 17:05,8/17/2016 17:34,Business,Unknown Location,Unknown Location,
+675,8/17/2016 18:38,8/17/2016 18:57,Business,Unknown Location,Unknown Location,Temporary Site
+676,8/18/2016 18:40,8/18/2016 19:07,Business,Unknown Location,Unknown Location,Temporary Site
+677,8/19/2016 8:24,8/19/2016 8:45,Business,Unknown Location,Noorpur Shahan,
+678,8/19/2016 8:54,8/19/2016 9:07,Business,Noorpur Shahan,Islamabad,
+679,8/19/2016 9:27,8/19/2016 9:47,Business,Islamabad,R?walpindi,
+680,8/19/2016 10:57,8/19/2016 11:06,Business,R?walpindi,Unknown Location,
+681,8/19/2016 12:07,8/19/2016 12:24,Business,Unknown Location,Islamabad,
+682,8/19/2016 15:51,8/19/2016 16:06,Business,Islamabad,Islamabad,
+683,8/19/2016 17:12,8/19/2016 17:52,Business,Islamabad,Unknown Location,
+684,8/21/2016 10:00,8/21/2016 10:29,Business,Unknown Location,Unknown Location,Airport/Travel
+685,8/21/2016 14:05,8/21/2016 14:34,Business,Unknown Location,Unknown Location,
+686,8/21/2016 16:30,8/21/2016 17:02,Business,Unknown Location,Islamabad,
+687,8/21/2016 18:10,8/21/2016 18:17,Business,Islamabad,Islamabad,
+688,8/21/2016 18:48,8/21/2016 19:24,Business,Islamabad,Unknown Location,
+689,8/22/2016 10:00,8/22/2016 10:44,Business,Unknown Location,Islamabad,
+690,8/22/2016 11:07,8/22/2016 11:23,Business,Islamabad,Unknown Location,
+691,8/22/2016 12:36,8/22/2016 12:49,Business,Unknown Location,Islamabad,
+692,8/22/2016 13:02,8/22/2016 13:11,Business,Islamabad,Islamabad,
+693,8/22/2016 14:07,8/22/2016 14:31,Business,Islamabad,Unknown Location,
+694,8/22/2016 15:14,8/22/2016 15:49,Business,Unknown Location,Unknown Location,
+695,8/22/2016 15:59,8/22/2016 17:16,Business,Unknown Location,Unknown Location,
+696,8/22/2016 19:58,8/22/2016 20:50,Business,Unknown Location,R?walpindi,
+697,8/22/2016 20:53,8/22/2016 21:31,Business,R?walpindi,R?walpindi,
+698,8/22/2016 22:31,8/22/2016 23:00,Business,R?walpindi,Unknown Location,
+699,8/23/2016 8:10,8/23/2016 8:25,Business,Unknown Location,Noorpur Shahan,
+700,8/23/2016 9:35,8/23/2016 10:09,Business,Noorpur Shahan,Unknown Location,
+701,8/23/2016 12:59,8/23/2016 13:15,Business,Unknown Location,Noorpur Shahan,
+702,8/23/2016 13:19,8/23/2016 13:30,Business,Noorpur Shahan,Islamabad,
+703,8/23/2016 13:49,8/23/2016 14:04,Business,Islamabad,Unknown Location,
+704,8/23/2016 15:07,8/23/2016 15:12,Business,Unknown Location,Unknown Location,
+705,8/23/2016 15:15,8/23/2016 17:16,Business,Unknown Location,Unknown Location,
+706,8/23/2016 17:42,8/23/2016 18:31,Business,Unknown Location,Unknown Location,
+707,8/24/2016 12:05,8/24/2016 12:56,Business,Unknown Location,Unknown Location,
+708,8/24/2016 13:01,8/24/2016 15:25,Business,Unknown Location,Unknown Location,
+709,8/25/2016 15:17,8/25/2016 16:22,Business,Unknown Location,Unknown Location,
+710,8/25/2016 16:36,8/25/2016 16:56,Business,Unknown Location,Unknown Location,
+711,8/25/2016 17:19,8/25/2016 19:20,Business,Unknown Location,Unknown Location,
+712,8/25/2016 19:25,8/25/2016 19:57,Business,Unknown Location,Lahore,
+713,8/25/2016 22:58,8/25/2016 23:16,Business,Lahore,Unknown Location,
+714,8/26/2016 9:06,8/26/2016 9:20,Business,Unknown Location,Unknown Location,
+715,8/26/2016 11:14,8/26/2016 11:26,Business,Unknown Location,Unknown Location,
+716,8/26/2016 12:10,8/26/2016 12:20,Business,Unknown Location,Lahore,
+717,8/26/2016 14:10,8/26/2016 14:33,Business,Lahore,Lahore,
+718,8/26/2016 15:23,8/26/2016 15:35,Business,Lahore,Lahore,
+719,8/26/2016 15:59,8/26/2016 16:24,Business,Lahore,Unknown Location,
+720,8/26/2016 16:55,8/26/2016 17:12,Business,Unknown Location,Lahore,
+721,8/26/2016 18:42,8/26/2016 18:56,Business,Lahore,Lahore,
+722,8/26/2016 19:31,8/26/2016 19:54,Business,Lahore,Lahore,
+723,8/26/2016 20:06,8/26/2016 20:16,Business,Lahore,Unknown Location,
+724,8/27/2016 9:34,8/27/2016 10:11,Business,Unknown Location,Lahore,
+725,8/27/2016 11:47,8/27/2016 12:06,Business,Lahore,Lahore,
+726,8/27/2016 12:12,8/27/2016 12:17,Business,Lahore,Lahore,
+727,8/27/2016 14:01,8/27/2016 15:44,Business,Lahore,Unknown Location,
+728,8/27/2016 16:15,8/27/2016 19:13,Business,Unknown Location,Unknown Location,
+729,8/28/2016 9:57,8/28/2016 10:18,Business,Unknown Location,Noorpur Shahan,
+730,8/28/2016 16:39,8/28/2016 16:55,Business,Noorpur Shahan,Islamabad,
+731,8/28/2016 17:37,8/28/2016 17:55,Business,Islamabad,Islamabad,
+732,8/28/2016 21:15,8/28/2016 21:59,Business,Islamabad,Unknown Location,
+733,8/29/2016 12:02,8/29/2016 12:31,Business,Unknown Location,Islamabad,
+734,8/29/2016 13:38,8/29/2016 13:48,Business,Islamabad,Islamabad,
+735,8/29/2016 14:31,8/29/2016 14:41,Business,Islamabad,Islamabad,
+736,8/29/2016 14:49,8/29/2016 15:04,Business,Islamabad,Unknown Location,Temporary Site
+737,8/29/2016 15:49,8/29/2016 15:59,Business,Unknown Location,Islamabad,
+738,8/29/2016 16:06,8/29/2016 16:21,Business,Islamabad,Unknown Location,
+739,8/29/2016 17:24,8/29/2016 17:41,Business,Unknown Location,Islamabad,
+740,8/29/2016 18:27,8/29/2016 18:36,Business,Islamabad,Islamabad,
+741,8/30/2016 11:53,8/30/2016 12:05,Business,Unknown Location,Unknown Location,
+742,8/30/2016 12:46,8/30/2016 13:09,Business,Unknown Location,Islamabad,
+743,8/30/2016 13:25,8/30/2016 13:46,Business,Islamabad,Islamabad,
+744,8/30/2016 14:00,8/30/2016 14:20,Business,Islamabad,Unknown Location,
+745,8/30/2016 17:27,8/30/2016 18:09,Business,Unknown Location,Unknown Location,
+746,09-01-2016 11:51,09-01-2016 12:24,Business,Unknown Location,Islamabad,
+747,09-01-2016 17:21,09-01-2016 17:36,Business,Islamabad,Unknown Location,
+748,09-01-2016 18:49,09-01-2016 19:08,Business,Unknown Location,Unknown Location,
+749,09-02-2016 11:37,09-02-2016 12:24,Business,Unknown Location,Islamabad,
+750,09-02-2016 18:56,09-02-2016 19:37,Business,Unknown Location,Unknown Location,
+751,09-05-2016 10:25,09-05-2016 10:44,Business,Unknown Location,R?walpindi,
+752,09-06-2016 17:49,09-06-2016 17:49,Business,Unknown Location,Unknown Location,
+753,09-10-2016 10:28,09-10-2016 10:45,Business,Unknown Location,Unknown Location,
+754,09-11-2016 09:51,09-11-2016 09:55,Business,Unknown Location,Unknown Location,
+755,09-11-2016 21:40,09-11-2016 21:42,Business,Unknown Location,Unknown Location,
+756,09-12-2016 08:07,09-12-2016 08:12,Business,Unknown Location,Unknown Location,
+757,09-12-2016 11:15,09-12-2016 11:24,Business,Unknown Location,Unknown Location,
+758,09-12-2016 13:04,09-12-2016 13:44,Business,Unknown Location,Unknown Location,
+759,9/13/2016 16:56,9/13/2016 17:02,Business,Unknown Location,Unknown Location,
+760,9/14/2016 11:55,9/14/2016 11:59,Business,Unknown Location,Unknown Location,
+761,9/15/2016 20:33,9/15/2016 20:38,Business,Unknown Location,Unknown Location,
+762,9/16/2016 7:08,9/16/2016 7:08,Business,Unknown Location,Unknown Location,
+763,9/18/2016 18:07,9/18/2016 18:11,Business,Unknown Location,Unknown Location,
+764,9/19/2016 6:18,9/19/2016 6:49,Business,R?walpindi,Unknown Location,
+765,9/19/2016 14:40,9/19/2016 14:56,Business,Unknown Location,Islamabad,
+766,9/19/2016 16:23,9/19/2016 16:31,Business,Islamabad,Unknown Location,
+767,9/19/2016 17:36,9/19/2016 18:20,Business,Unknown Location,Unknown Location,
+768,9/19/2016 19:10,9/19/2016 19:49,Business,Unknown Location,Islamabad,
+769,9/20/2016 11:29,9/20/2016 11:48,Business,Islamabad,Unknown Location,
+770,9/20/2016 20:47,9/20/2016 22:47,Business,Unknown Location,R?walpindi,
+771,9/23/2016 13:15,9/23/2016 13:40,Business,Karachi,Karachi,
+772,9/24/2016 14:34,9/24/2016 15:15,Business,Karachi,Unknown Location,
+773,9/24/2016 20:29,9/24/2016 20:33,Business,Unknown Location,Unknown Location,
+774,9/27/2016 8:33,9/27/2016 8:35,Business,Unknown Location,Unknown Location,
+775,9/27/2016 13:21,9/27/2016 14:43,Business,Lahore,Lahore,
+776,9/27/2016 19:14,9/27/2016 20:34,Business,Lahore,Unknown Location,
+777,9/27/2016 21:01,9/28/2016 2:37,Business,Unknown Location,Unknown Location,
+778,9/28/2016 17:21,9/28/2016 19:36,Business,Islamabad,Unknown Location,
+779,9/29/2016 16:13,9/29/2016 18:47,Business,Unknown Location,Islamabad,
+780,9/30/2016 17:39,9/30/2016 20:20,Business,Islamabad,Islamabad,
+781,9/30/2016 20:59,9/30/2016 22:34,Business,Islamabad,Unknown Location,
+782,10-03-2016 17:09,10-03-2016 17:12,Business,Unknown Location,Islamabad,
+783,10-03-2016 18:17,10-03-2016 18:34,Business,Islamabad,Islamabad,
+784,10-03-2016 18:51,10-03-2016 19:01,Business,Islamabad,Islamabad,
+785,10-03-2016 22:04,10-03-2016 22:33,Business,Islamabad,Unknown Location,
+786,10-04-2016 09:50,10-04-2016 10:52,Business,Unknown Location,Unknown Location,
+787,10-04-2016 12:17,10-04-2016 12:18,Business,Unknown Location,Unknown Location,
+788,10-06-2016 08:49,10-06-2016 11:36,Business,Unknown Location,R?walpindi,
+789,10-06-2016 17:23,10-06-2016 17:40,Business,R?walpindi,Unknown Location,
+790,10-06-2016 18:37,10-06-2016 18:39,Business,Unknown Location,Unknown Location,
+791,10-06-2016 19:46,10-06-2016 20:26,Business,Unknown Location,Unknown Location,
+792,10-07-2016 10:56,10-07-2016 10:59,Business,Unknown Location,Lahore,
+793,10-07-2016 11:27,10-07-2016 11:50,Business,Lahore,Lahore,
+794,10-07-2016 13:52,10-07-2016 14:08,Business,Lahore,Unknown Location,
+795,10-07-2016 14:29,10-07-2016 15:11,Business,Unknown Location,Lahore,
+796,10-07-2016 15:47,10-07-2016 16:02,Business,Lahore,Lahore,
+797,10-07-2016 18:08,10-07-2016 18:27,Business,Lahore,Lahore,
+798,10-07-2016 18:33,10-07-2016 19:01,Business,Lahore,Lahore,
+799,10-08-2016 15:03,10-08-2016 15:03,Business,Karachi,Karachi,
+800,10-08-2016 18:15,10-08-2016 18:18,Business,Karachi,Unknown Location,
+801,10-09-2016 14:04,10-09-2016 14:23,Business,Unknown Location,Unknown Location,Temporary Site
+802,10-10-2016 17:22,10-10-2016 17:28,Business,Islamabad,Islamabad,
+803,10-10-2016 17:33,10-10-2016 18:13,Business,Islamabad,Unknown Location,
+804,10-11-2016 01:27,10-11-2016 02:08,Business,Unknown Location,R?walpindi,Meeting
+805,10-12-2016 19:18,10-12-2016 19:21,Business,R?walpindi,Unknown Location,
+806,10/13/2016 11:20,10/13/2016 11:58,Business,Unknown Location,Islamabad,
+807,10/13/2016 12:08,10/13/2016 12:14,Business,Islamabad,Islamabad,
+808,10/13/2016 13:02,10/13/2016 13:02,Business,Islamabad,Islamabad,
+809,10/13/2016 13:37,10/13/2016 13:46,Business,Islamabad,Islamabad,
+810,10/13/2016 16:08,10/13/2016 16:53,Business,Islamabad,Unknown Location,
+811,10/14/2016 8:50,10/14/2016 9:44,Business,Unknown Location,R?walpindi,
+812,10/14/2016 10:16,10/14/2016 10:52,Business,R?walpindi,Unknown Location,
+813,10/14/2016 15:56,10/14/2016 16:20,Business,Unknown Location,Unknown Location,
+814,10/14/2016 23:54,10/15/2016 2:06,Business,Unknown Location,R?walpindi,Meeting
+815,10/15/2016 22:28,10/15/2016 22:48,Business,Morrisville,Morrisville,
+816,10/16/2016 0:01,10/16/2016 0:14,Business,Morrisville,Cary,
+817,10/16/2016 12:52,10/16/2016 13:11,Business,Cary,Durham,Meeting
+818,10/16/2016 14:40,10/16/2016 15:01,Business,Durham,Morrisville,
+819,10/16/2016 15:10,10/16/2016 15:19,Business,Morrisville,Cary,
+820,10/16/2016 19:27,10/16/2016 19:33,Business,Whitebridge,Parkway,Meeting
+821,10/16/2016 20:30,10/16/2016 20:39,Business,Cary,Morrisville,
+822,10/16/2016 21:34,10/16/2016 21:41,Business,Morrisville,Cary,Meal/Entertain
+823,10/17/2016 15:19,10/17/2016 15:57,Business,Cary,Raleigh,
+824,10/17/2016 16:29,10/17/2016 17:11,Business,Raleigh,Cary,
+825,10/17/2016 18:02,10/17/2016 18:16,Business,Cary,Apex,
+826,10/17/2016 18:31,10/17/2016 18:45,Business,Apex,Apex,
+827,10/17/2016 19:08,10/17/2016 19:25,Business,Apex,Cary,
+828,10/18/2016 8:12,10/18/2016 8:22,Business,Whitebridge,Edgehill Farms,
+829,10/18/2016 8:53,10/18/2016 9:02,Business,Edgehill Farms,Whitebridge,
+830,10/18/2016 10:41,10/18/2016 11:09,Business,Cary,Morrisville,Temporary Site
+831,10/18/2016 18:12,10/18/2016 18:33,Business,Oakland,Emeryville,
+832,10/18/2016 19:03,10/18/2016 19:13,Business,Emeryville,Berkeley,
+833,10/18/2016 20:31,10/18/2016 20:37,Business,Berkeley,Emeryville,
+834,10/19/2016 9:33,10/19/2016 9:47,Business,Emeryville,Oakland,
+835,10/19/2016 9:54,10/19/2016 10:21,Business,Oakland,San Francisco,
+836,10/19/2016 13:45,10/19/2016 13:56,Business,SOMISSPO,French Quarter,
+837,10/19/2016 14:02,10/19/2016 14:31,Business,San Francisco,Berkeley,
+838,10/19/2016 15:44,10/19/2016 16:02,Business,West Berkeley,North Berkeley Hills,
+839,10/19/2016 16:06,10/19/2016 16:19,Business,North Berkeley Hills,Southside,
+840,10/19/2016 16:33,10/19/2016 17:01,Business,Berkeley,Emeryville,
+841,10/20/2016 11:26,10/20/2016 11:34,Business,Emeryville,Berkeley,
+842,10/20/2016 12:19,10/20/2016 13:17,Business,Berkeley,San Jose,
+843,10/20/2016 20:44,10/20/2016 21:37,Business,San Jose,Emeryville,
+844,10/21/2016 10:06,10/21/2016 10:21,Business,Emeryville,Oakland,
+845,10/22/2016 0:54,10/22/2016 1:09,Business,Morrisville,Cary,
+846,10/22/2016 13:26,10/22/2016 14:03,Business,Cary,Raleigh,
+847,10/22/2016 17:08,10/22/2016 17:55,Business,Raleigh,Cary,
+848,10/23/2016 9:24,10/23/2016 10:05,Business,Cary,Raleigh,
+849,10/23/2016 12:17,10/23/2016 12:59,Business,Raleigh,Cary,
+850,10/23/2016 19:04,10/23/2016 19:14,Business,Cary,Morrisville,Meal/Entertain
+851,10/23/2016 21:10,10/23/2016 21:25,Business,Morrisville,Cary,Customer Visit
+852,10/24/2016 14:57,10/24/2016 15:26,Business,Cary,Durham,
+853,10/24/2016 15:33,10/24/2016 16:13,Business,Durham,Morrisville,
+854,10/24/2016 16:34,10/24/2016 16:41,Business,Morrisville,Cary,
+855,10/25/2016 13:27,10/25/2016 14:08,Business,Cary,Apex,
+856,10/25/2016 15:04,10/25/2016 15:11,Business,Apex,Eagle Rock,
+857,10/25/2016 15:16,10/25/2016 15:33,Business,Eagle Rock,Cary,
+858,10/25/2016 20:00,10/25/2016 20:11,Business,Whitebridge,Savon Height,Meal/Entertain
+859,10/25/2016 20:54,10/25/2016 21:03,Business,Savon Height,Parkway,
+860,10/25/2016 22:24,10/25/2016 22:45,Business,Parkway,Whitebridge,Errand/Supplies
+861,10/26/2016 19:25,10/26/2016 19:31,Business,Whitebridge,Parkway,Meeting
+862,10/26/2016 20:53,10/26/2016 21:03,Business,Parkway,Whitebridge,
+863,10/27/2016 18:51,10/27/2016 19:16,Business,Cary,Morrisville,Meeting
+864,10/27/2016 19:20,10/27/2016 19:35,Business,Morrisville,Morrisville,
+865,10/27/2016 19:52,10/27/2016 20:21,Business,Huntington Woods,Huntington Woods,
+866,10/27/2016 20:47,10/27/2016 20:54,Business,Huntington Woods,Weston,
+867,10/27/2016 21:26,10/27/2016 21:48,Business,Morrisville,Cary,
+868,10/28/2016 11:34,10/28/2016 11:52,Business,Cary,Durham,Meeting
+869,10/28/2016 13:06,10/28/2016 13:36,Business,Durham,Cary,Meeting
+870,10/28/2016 15:53,10/28/2016 17:59,Business,Cary,Winston Salem,Meeting
+871,10/28/2016 18:13,10/28/2016 20:07,Business,Winston Salem,Asheville,Meeting
+872,10/28/2016 20:13,10/28/2016 22:00,Business,Asheville,Topton,Meeting
+873,10/29/2016 15:22,10/29/2016 17:05,Business,Topton,Hayesville,Meeting
+874,10/29/2016 17:13,10/29/2016 19:19,Business,Hayesville,Topton,
+875,10/30/2016 7:49,10/30/2016 8:30,Business,Topton,Bryson City,
+876,10/30/2016 9:07,10/30/2016 10:09,Business,Bryson City,Bryson City,
+877,10/30/2016 10:11,10/30/2016 10:38,Business,Bryson City,Bryson City,
+878,10/30/2016 10:51,10/30/2016 11:21,Business,Bryson City,Bryson City,
+879,10/30/2016 12:24,10/30/2016 12:35,Business,Bryson City,Almond,
+880,10/30/2016 12:58,10/30/2016 13:18,Business,Almond,Bryson City,
+881,10/30/2016 13:24,10/30/2016 14:37,Business,Bryson City,Asheville,
+882,10/30/2016 15:22,10/30/2016 18:23,Business,Asheville,Mebane,
+883,10/30/2016 18:26,10/30/2016 19:39,Business,Mebane,Cary,
+884,10/31/2016 18:11,10/31/2016 18:20,Business,Cary,Morrisville,
+885,10/31/2016 18:47,10/31/2016 19:16,Business,Morrisville,Raleigh,
+886,10/31/2016 20:18,10/31/2016 20:44,Business,Raleigh,Cary,
+887,10/31/2016 21:45,10/31/2016 22:10,Business,Savon Height,Whitebridge,Errand/Supplies
+888,11-01-2016 11:50,11-01-2016 12:27,Business,Cary,Durham,
+889,11-01-2016 16:29,11-01-2016 17:02,Business,Durham,Cary,
+890,11-01-2016 17:35,11-01-2016 17:42,Business,Whitebridge,Whitebridge,
+891,11-01-2016 19:14,11-01-2016 19:20,Business,Whitebridge,Whitebridge,
+892,11-01-2016 19:59,11-01-2016 20:12,Business,Whitebridge,Whitebridge,
+893,11-01-2016 20:41,11-01-2016 20:55,Business,Whitebridge,Whitebridge,Meal/Entertain
+894,11-02-2016 15:10,11-02-2016 15:18,Business,Whitebridge,Westpark Place,
+895,11-02-2016 15:45,11-02-2016 15:52,Business,Westpark Place,Whitebridge,
+896,11-02-2016 16:46,11-02-2016 17:11,Business,Cary,Morrisville,Meeting
+897,11-02-2016 17:34,11-02-2016 17:49,Business,Morrisville,Morrisville,
+898,11-02-2016 17:53,11-02-2016 18:00,Business,Morrisville,Cary,
+899,11-03-2016 11:28,11-03-2016 11:34,Business,Whitebridge,Hazelwood,
+900,11-03-2016 12:43,11-03-2016 12:49,Business,Hazelwood,Whitebridge,
+901,11-03-2016 13:42,11-03-2016 13:47,Business,Whitebridge,Westpark Place,
+902,11-03-2016 14:13,11-03-2016 14:26,Business,Westpark Place,Whitebridge,
+903,11-03-2016 18:51,11-03-2016 19:08,Business,Cary,Morrisville,Meal/Entertain
+904,11-03-2016 22:46,11-03-2016 22:58,Business,Morrisville,Cary,Customer Visit
+905,11-04-2016 10:02,11-04-2016 10:18,Business,Cary,Morrisville,Temporary Site
+906,11-04-2016 18:14,11-04-2016 18:21,Business,San Jose,Santa Clara,
+907,11-04-2016 21:04,11-04-2016 21:20,Business,Agnew,Cory,
+908,11-04-2016 22:12,11-04-2016 22:25,Business,Cory,Agnew,
+909,11-05-2016 08:34,11-05-2016 08:43,Business,Agnew,Renaissance,
+910,11-05-2016 17:29,11-05-2016 17:40,Business,Renaissance,Agnew,
+911,11-05-2016 19:20,11-05-2016 19:28,Business,Agnew,Agnew,
+912,11-06-2016 10:50,11-06-2016 11:04,Business,Agnew,Renaissance,
+913,11-06-2016 16:05,11-06-2016 16:22,Business,Renaissance,Agnew,Meeting
+914,11-06-2016 16:27,11-06-2016 17:28,Business,Santa Clara,Berkeley,Customer Visit
+915,11-06-2016 19:04,11-06-2016 19:12,Business,Downtown,West Berkeley,
+916,11-06-2016 20:06,11-06-2016 20:21,Business,West Berkeley,Central,
+917,11-07-2016 12:28,11-07-2016 12:57,Business,Berkeley,San Francisco,Between Offices
+918,11-07-2016 19:17,11-07-2016 19:57,Business,San Francisco,Berkeley,Between Offices
+919,11-08-2016 10:29,11-08-2016 10:57,Business,Berkeley,San Francisco,Between Offices
+920,11-08-2016 12:16,11-08-2016 12:49,Business,San Francisco,Berkeley,Meeting
+921,11-08-2016 13:41,11-08-2016 14:01,Business,Berkeley,Emeryville,
+922,11-08-2016 16:21,11-08-2016 16:34,Business,Emeryville,Berkeley,
+923,11-09-2016 13:08,11-09-2016 13:41,Business,Berkeley,San Francisco,
+924,11-09-2016 15:58,11-09-2016 16:04,Business,NOMA,Downtown,
+925,11-09-2016 17:31,11-09-2016 18:03,Business,Downtown,Sunnyside,
+926,11-09-2016 18:09,11-09-2016 18:14,Business,Sunnyside,Ingleside,
+927,11-09-2016 18:21,11-09-2016 18:35,Business,Ingleside,Potrero Flats,Meeting
+928,11-09-2016 18:40,11-09-2016 19:17,Business,San Francisco,Oakland,Customer Visit
+929,11-09-2016 20:52,11-09-2016 21:02,Business,Oakland,Berkeley,
+930,11-09-2016 21:56,11-09-2016 22:02,Business,Central,Central,
+931,11-10-2016 09:46,11-10-2016 10:15,Business,Berkeley,San Francisco,Temporary Site
+932,11-10-2016 10:20,11-10-2016 10:31,Business,Tenderloin,SOMISSPO,
+933,11-10-2016 14:57,11-10-2016 15:07,Business,SOMISSPO,Tenderloin,
+934,11-10-2016 15:17,11-10-2016 15:22,Business,San Francisco,Oakland,Temporary Site
+935,11-10-2016 15:30,11-10-2016 15:53,Business,Oakland,Berkeley,Meeting
+936,11-10-2016 19:18,11-10-2016 19:21,Business,West Berkeley,Central,
+937,11-11-2016 09:35,11-11-2016 10:23,Business,Berkeley,Menlo Park,Customer Visit
+938,11-11-2016 12:58,11-11-2016 13:13,Business,Menlo Park,Palo Alto,
+939,11-11-2016 14:20,11-11-2016 14:32,Business,Palo Alto,Menlo Park,
+940,11-11-2016 14:39,11-11-2016 15:46,Business,Menlo Park,Berkeley,Customer Visit
+941,11-11-2016 18:30,11-11-2016 18:43,Business,Central,College Avenue,
+942,11-11-2016 21:08,11-11-2016 21:18,Business,College Avenue,Central,
+943,11-12-2016 10:32,11-12-2016 10:52,Business,Central,South,
+944,11-12-2016 10:55,11-12-2016 11:25,Business,South,Downtown,
+945,11-12-2016 13:07,11-12-2016 13:15,Business,Downtown,Central,
+946,11-12-2016 13:46,11-12-2016 13:50,Business,Central,West Berkeley,
+947,11-12-2016 14:22,11-12-2016 14:53,Business,West Berkeley,South,Meeting
+948,11-12-2016 15:14,11-12-2016 15:21,Business,South,Southwest Berkeley,
+949,11-12-2016 15:25,11-12-2016 15:36,Business,Berkeley,Emeryville,
+950,11-12-2016 15:40,11-12-2016 15:59,Business,Emeryville,Berkeley,Errand/Supplies
+951,11/13/2016 8:54,11/13/2016 9:02,Business,Central,Central,
+952,11/13/2016 9:27,11/13/2016 9:53,Business,Central,Central,
+953,11/13/2016 10:31,11/13/2016 10:37,Business,Central,Southside,
+954,11/13/2016 11:04,11/13/2016 11:16,Business,Southside,West Berkeley,
+955,11/13/2016 12:22,11/13/2016 12:51,Business,West Berkeley,Southside,Meeting
+956,11/13/2016 13:05,11/13/2016 13:11,Business,Southside,South Berkeley,
+957,11/13/2016 13:14,11/13/2016 13:18,Business,South Berkeley,Southside,
+958,11/13/2016 14:35,11/13/2016 14:46,Business,Southside,Central,
+959,11/13/2016 15:14,11/13/2016 15:24,Business,Central,Southside,
+960,11/13/2016 15:47,11/13/2016 15:59,Business,Southside,Central,
+961,11/14/2016 11:24,11/14/2016 12:13,Business,Berkeley,Mountain View,Customer Visit
+962,11/14/2016 13:40,11/14/2016 14:33,Business,Mountain View,Berkeley,Customer Visit
+963,11/14/2016 15:27,11/14/2016 15:36,Business,Berkeley,Emeryville,
+964,11/14/2016 20:19,11/14/2016 20:30,Business,Emeryville,Berkeley,Errand/Supplies
+965,11/15/2016 13:59,11/15/2016 14:06,Business,Berkeley,Oakland,
+966,11/15/2016 14:09,11/15/2016 14:26,Business,Oakland,San Francisco,Temporary Site
+967,11/15/2016 20:44,11/15/2016 21:00,Business,San Francisco,Berkeley,Temporary Site
+968,11/16/2016 20:21,11/16/2016 20:27,Business,Berkeley,El Cerrito,Temporary Site
+969,11/16/2016 22:52,11/16/2016 23:02,Business,El Cerrito,Berkeley,Meal/Entertain
+970,11/17/2016 10:13,11/17/2016 10:44,Business,Berkeley,Oakland,Customer Visit
+971,11/18/2016 20:09,11/18/2016 20:19,Business,Cary,Morrisville,Meal/Entertain
+972,11/18/2016 21:23,11/18/2016 21:34,Business,Morrisville,Cary,Meal/Entertain
+973,11/18/2016 21:56,11/18/2016 22:21,Business,Krendle Woods,Whitebridge,Meeting
+974,11/19/2016 13:51,11/19/2016 14:10,Business,Cary,Durham,Meeting
+975,11/19/2016 14:30,11/19/2016 14:51,Business,Durham,Cary,Meeting
+976,11/19/2016 16:01,11/19/2016 16:06,Business,Cary,Cary,
+977,11/19/2016 16:27,11/19/2016 16:41,Business,Cary,Cary,
+978,11/19/2016 17:41,11/19/2016 17:54,Business,Cary,Apex,Errand/Supplies
+979,11/19/2016 21:14,11/19/2016 21:35,Business,Apex,Cary,Customer Visit
+980,11/20/2016 10:27,11/20/2016 11:32,Business,Cary,Cary,Between Offices
+981,11/20/2016 11:58,11/20/2016 12:28,Business,Cary,Cary,Customer Visit
+982,11/20/2016 14:58,11/20/2016 15:07,Business,Cary,Cary,Meeting
+983,11/20/2016 17:45,11/20/2016 18:37,Business,Cary,Cary,Errand/Supplies
+984,11/21/2016 13:37,11/21/2016 13:49,Business,Cary,Cary,Meal/Entertain
+985,11/21/2016 14:34,11/21/2016 14:44,Business,Cary,Cary,Meal/Entertain
+986,11/21/2016 17:50,11/21/2016 18:04,Business,Cary,Unknown Location,Errand/Supplies
+987,11/21/2016 18:18,11/21/2016 18:27,Business,Unknown Location,Morrisville,Meal/Entertain
+988,11/21/2016 18:43,11/21/2016 18:51,Business,Morrisville,Cary,Errand/Supplies
+989,11/22/2016 15:12,11/22/2016 15:27,Business,Cary,Cary,Meeting
+990,11/22/2016 15:31,11/22/2016 15:44,Business,Cary,Cary,Meeting
+991,11/22/2016 15:51,11/22/2016 16:43,Business,Cary,Cary,Customer Visit
+992,11/22/2016 18:18,11/22/2016 18:28,Business,Cary,Morrisville,Meal/Entertain
+993,11/22/2016 21:02,11/22/2016 21:14,Business,Morrisville,Cary,Customer Visit
+994,11/23/2016 15:34,11/23/2016 15:50,Business,Cary,Cary,Meal/Entertain
+995,11/23/2016 16:18,11/23/2016 16:29,Business,Cary,Cary,
+996,11/23/2016 16:49,11/23/2016 17:00,Business,Cary,Cary,
+997,11/23/2016 18:37,11/23/2016 18:47,Business,Cary,Cary,
+998,11/25/2016 11:47,11/25/2016 12:04,Business,Cary,Durham,Meeting
+999,11/25/2016 13:13,11/25/2016 13:31,Business,Durham,Cary,Meeting
+1000,11/26/2016 15:54,11/26/2016 15:59,Business,Cary,Cary,
+1001,11/26/2016 17:00,11/26/2016 17:12,Business,Cary,Apex,Meeting
+1002,11/26/2016 17:36,11/26/2016 17:56,Business,Apex,Holly Springs,Meeting
+1003,11/26/2016 18:29,11/26/2016 19:04,Business,Holly Springs,Cary,Between Offices
+1004,11/26/2016 19:47,11/26/2016 19:54,Business,Cary,Cary,Errand/Supplies
+1005,11/27/2016 15:59,11/27/2016 16:06,Business,Cary,Morrisville,Meal/Entertain
+1006,11/27/2016 18:55,11/27/2016 19:09,Business,Morrisville,Cary,
+1007,11/30/2016 11:03,11/30/2016 11:34,Business,Cary,Raleigh,Customer Visit
+1008,11/30/2016 11:53,11/30/2016 12:35,Business,Raleigh,Morrisville,Temporary Site
+1009,11/30/2016 12:43,11/30/2016 12:53,Business,Morrisville,Cary,
+1010,12-01-2016 07:44,12-01-2016 07:59,Business,Cary,Cary,Meeting
+1011,12-01-2016 08:37,12-01-2016 08:53,Business,Cary,Cary,Errand/Supplies
+1012,12-01-2016 18:00,12-01-2016 18:12,Business,Cary,Morrisville,Meal/Entertain
+1013,12-01-2016 20:36,12-01-2016 20:46,Business,Morrisville,Cary,Customer Visit
+1014,12-02-2016 12:12,12-02-2016 12:23,Business,Cary,Apex,Meal/Entertain
+1015,12-02-2016 13:07,12-02-2016 13:22,Business,Apex,Cary,Customer Visit
+1016,12-02-2016 20:41,12-02-2016 20:48,Business,Cary,Morrisville,Meal/Entertain
+1017,12-02-2016 22:59,12-02-2016 23:07,Business,Morrisville,Cary,Customer Visit
+1018,12-03-2016 18:35,12-03-2016 18:56,Business,Cary,Wake Co.,Errand/Supplies
+1019,12-03-2016 19:08,12-03-2016 19:15,Business,Wake Co.,Morrisville,
+1020,12-03-2016 20:31,12-03-2016 20:41,Business,Morrisville,Cary,Customer Visit
+1021,12-04-2016 18:56,12-04-2016 19:03,Business,Cary,Morrisville,Meal/Entertain
+1022,12-04-2016 20:23,12-04-2016 20:34,Business,Morrisville,Cary,Customer Visit
+1023,12-05-2016 18:04,12-05-2016 18:17,Business,Cary,Cary,
+1024,12-05-2016 19:22,12-05-2016 19:37,Business,Cary,Cary,Meal/Entertain
+1025,12-07-2016 12:03,12-07-2016 12:32,Business,Cary,Cary,Meeting
+1026,12-07-2016 12:35,12-07-2016 12:46,Business,Cary,Cary,Meeting
+1027,12-07-2016 19:53,12-07-2016 20:13,Business,Cary,Cary,Customer Visit
+1028,12-07-2016 21:13,12-07-2016 21:50,Business,Cary,Cary,Meal/Entertain
+1029,12-08-2016 14:19,12-08-2016 14:32,Business,Cary,Cary,Errand/Supplies
+1030,12-08-2016 14:53,12-08-2016 15:02,Business,Cary,Cary,Errand/Supplies
+1031,12-08-2016 19:22,12-08-2016 19:27,Business,Cary,Cary,Meeting
+1032,12-08-2016 21:26,12-08-2016 21:31,Business,Cary,Cary,Errand/Supplies
+1033,12-09-2016 12:09,12-09-2016 12:24,Business,Cary,Apex,Errand/Supplies
+1034,12-09-2016 13:15,12-09-2016 13:43,Business,Apex,Cary,Temporary Site
+1035,12-09-2016 20:11,12-09-2016 20:34,Business,Cary,Cary,Meeting
+1036,12-09-2016 22:03,12-09-2016 22:57,Business,Cary,Cary,Customer Visit
+1037,12-10-2016 12:43,12-10-2016 13:16,Business,Cary,Fuquay-Varina,Meeting
+1038,12-10-2016 14:42,12-10-2016 15:18,Business,Fuquay-Varina,Cary,Errand/Supplies
+1039,12-10-2016 18:17,12-10-2016 18:27,Business,Cary,Morrisville,Meal/Entertain
+1040,12-10-2016 22:09,12-10-2016 22:21,Business,Morrisville,Cary,Customer Visit
+1041,12-11-2016 16:06,12-11-2016 16:16,Business,Cary,Morrisville,Meal/Entertain
+1042,12-11-2016 19:05,12-11-2016 19:15,Business,Morrisville,Cary,Errand/Supplies
+1043,12-11-2016 21:48,12-11-2016 21:56,Business,Cary,Cary,Errand/Supplies
+1044,12-12-2016 13:22,12-12-2016 13:32,Business,Cary,Cary,Errand/Supplies
+1045,12-12-2016 13:36,12-12-2016 13:51,Business,Cary,Apex,Meal/Entertain
+1046,12-12-2016 14:26,12-12-2016 14:39,Business,Apex,Cary,Customer Visit
+1047,12-12-2016 17:51,12-12-2016 18:01,Business,Cary,Morrisville,Meal/Entertain
+1048,12-12-2016 20:48,12-12-2016 20:57,Business,Morrisville,Cary,Customer Visit
+1049,12/13/2016 18:19,12/13/2016 18:29,Business,Cary,Cary,Errand/Supplies
+1050,12/13/2016 20:20,12/13/2016 20:29,Business,Cary,Cary,Meal/Entertain
+1051,12/14/2016 16:52,12/14/2016 17:10,Business,Cary,Cary,
+1052,12/14/2016 17:22,12/14/2016 17:34,Business,Cary,Cary,
+1053,12/14/2016 17:50,12/14/2016 18:00,Business,Cary,Morrisville,Meal/Entertain
+1054,12/14/2016 20:24,12/14/2016 20:40,Business,Morrisville,Cary,Customer Visit
+1055,12/15/2016 14:20,12/15/2016 14:54,Business,Cary,Morrisville,Meeting
+1056,12/17/2016 15:38,12/17/2016 16:12,Business,Unknown Location,Unknown Location,Airport/Travel
+1057,12/17/2016 17:19,12/17/2016 17:59,Business,Unknown Location,Unknown Location,Temporary Site
+1058,12/18/2016 13:03,12/18/2016 13:41,Business,Unknown Location,Unknown Location,Errand/Supplies
+1059,12/18/2016 16:38,12/18/2016 17:25,Business,Unknown Location,Unknown Location,Errand/Supplies
+1060,12/18/2016 20:35,12/18/2016 21:04,Business,Unknown Location,Unknown Location,
+1061,12/19/2016 9:08,12/19/2016 9:36,Business,Unknown Location,Islamabad,Errand/Supplies
+1062,12/19/2016 10:15,12/19/2016 10:34,Business,Islamabad,Rawalpindi,Temporary Site
+1063,12/19/2016 13:04,12/19/2016 13:08,Business,Rawalpindi,Unknown Location,Errand/Supplies
+1064,12/19/2016 13:24,12/19/2016 13:35,Business,Unknown Location,Unknown Location,
+1065,12/19/2016 14:07,12/19/2016 14:15,Business,Unknown Location,Unknown Location,
+1066,12/19/2016 14:18,12/19/2016 14:32,Business,Unknown Location,Unknown Location,
+1067,12/19/2016 14:37,12/19/2016 14:50,Business,Unknown Location,Unknown Location,
+1068,12/19/2016 15:09,12/19/2016 15:38,Business,Unknown Location,Rawalpindi,Customer Visit
+1069,12/19/2016 16:50,12/19/2016 17:09,Business,Rawalpindi,Islamabad,Customer Visit
+1070,12/19/2016 19:05,12/19/2016 19:17,Business,Islamabad,Unknown Location,
+1071,12/19/2016 19:55,12/19/2016 20:30,Business,Unknown Location,Unknown Location,Meeting
+1072,12/20/2016 8:49,12/20/2016 9:24,Business,Unknown Location,Rawalpindi,
+1073,12/20/2016 10:30,12/20/2016 10:48,Business,Rawalpindi,Rawalpindi,Errand/Supplies
+1074,12/20/2016 11:30,12/20/2016 12:17,Business,Rawalpindi,Unknown Location,Meeting
+1075,12/20/2016 13:14,12/20/2016 13:20,Business,Unknown Location,Unknown Location,Errand/Supplies
+1076,12/20/2016 13:54,12/20/2016 14:17,Business,Unknown Location,Islamabad,Temporary Site
+1077,12/20/2016 16:14,12/20/2016 16:24,Business,Islamabad,Islamabad,Errand/Supplies
+1078,12/20/2016 16:56,12/20/2016 17:07,Business,Islamabad,Islamabad,Errand/Supplies
+1079,12/20/2016 18:47,12/20/2016 19:21,Business,Islamabad,Unknown Location,Customer Visit
+1080,12/21/2016 7:42,12/21/2016 8:10,Business,Unknown Location,Unknown Location,Meeting
+1081,12/21/2016 10:14,12/21/2016 10:30,Business,Unknown Location,Islamabad,Errand/Supplies
+1082,12/21/2016 11:35,12/21/2016 11:49,Business,Islamabad,Unknown Location,Meal/Entertain
+1083,12/21/2016 12:51,12/21/2016 13:33,Business,Unknown Location,Unknown Location,Meeting
+1084,12/21/2016 15:38,12/21/2016 15:49,Business,Unknown Location,Unknown Location,Errand/Supplies
+1085,12/21/2016 15:55,12/21/2016 16:05,Business,Unknown Location,Islamabad,Errand/Supplies
+1086,12/21/2016 17:45,12/21/2016 17:54,Business,Islamabad,Islamabad,Meeting
+1087,12/21/2016 17:59,12/21/2016 18:31,Business,Islamabad,Unknown Location,Customer Visit
+1088,12/21/2016 19:49,12/21/2016 20:35,Business,Unknown Location,Rawalpindi,Meeting
+1089,12/21/2016 20:56,12/21/2016 23:42,Business,Rawalpindi,Unknown Location,Meeting
+1090,12/22/2016 15:40,12/22/2016 16:38,Business,Unknown Location,Unknown Location,Meeting
+1091,12/22/2016 17:04,12/22/2016 17:20,Business,Unknown Location,Unknown Location,Customer Visit
+1092,12/22/2016 17:27,12/22/2016 17:53,Business,Unknown Location,Unknown Location,Meeting
+1093,12/22/2016 17:56,12/22/2016 18:29,Business,Unknown Location,Unknown Location,Meeting
+1094,12/22/2016 18:31,12/22/2016 18:37,Business,Unknown Location,Unknown Location,Errand/Supplies
+1095,12/22/2016 18:38,12/22/2016 18:47,Business,Unknown Location,Unknown Location,Temporary Site
+1096,12/22/2016 19:04,12/22/2016 19:50,Business,Unknown Location,Lahore,Meeting
+1097,12/22/2016 21:41,12/22/2016 21:53,Business,Lahore,Lahore,Meal/Entertain
+1098,12/22/2016 23:27,12/22/2016 23:32,Business,Lahore,Lahore,Customer Visit
+1099,12/23/2016 9:21,12/23/2016 9:41,Business,Lahore,Lahore,Meeting
+1100,12/23/2016 11:33,12/23/2016 11:58,Business,Lahore,Unknown Location,Meeting
+1101,12/23/2016 14:15,12/23/2016 15:25,Business,Unknown Location,Unknown Location,Meeting
+1102,12/23/2016 16:23,12/23/2016 16:34,Business,Unknown Location,Unknown Location,Errand/Supplies
+1103,12/23/2016 17:34,12/23/2016 18:27,Business,Unknown Location,Lahore,Meal/Entertain
+1104,12/24/2016 7:43,12/24/2016 8:04,Business,Lahore,Unknown Location,Meal/Entertain
+1105,12/24/2016 9:19,12/24/2016 9:55,Business,Unknown Location,Lahore,Meal/Entertain
+1106,12/24/2016 10:34,12/24/2016 10:53,Business,Lahore,Lahore,Meal/Entertain
+1107,12/24/2016 12:51,12/24/2016 12:53,Business,Lahore,Lahore,Errand/Supplies
+1108,12/24/2016 13:08,12/24/2016 13:29,Business,Lahore,Lahore,Errand/Supplies
+1109,12/24/2016 17:12,12/24/2016 17:27,Business,Lahore,Lahore,Errand/Supplies
+1110,12/24/2016 19:12,12/24/2016 19:27,Business,Lahore,Lahore,Meal/Entertain
+1111,12/24/2016 22:04,12/24/2016 22:09,Business,Lahore,Lahore,Errand/Supplies
+1112,12/25/2016 0:10,12/25/2016 0:14,Business,Lahore,Lahore,Errand/Supplies
+1113,12/25/2016 19:15,12/25/2016 19:26,Business,Lahore,Lahore,Meal/Entertain
+1114,12/25/2016 21:58,12/25/2016 22:04,Business,Lahore,Lahore,Meal/Entertain
+1115,12/26/2016 8:30,12/26/2016 8:41,Business,Lahore,Lahore,Meal/Entertain
+1116,12/26/2016 9:05,12/26/2016 9:19,Business,Lahore,Lahore,Customer Visit
+1117,12/26/2016 10:15,12/26/2016 10:36,Business,Lahore,Lahore,Customer Visit
+1118,12/26/2016 11:29,12/26/2016 11:42,Business,Lahore,Lahore,Customer Visit
+1119,12/26/2016 13:09,12/26/2016 13:43,Business,Lahore,Unknown Location,Meeting
+1120,12/27/2016 7:02,12/27/2016 7:14,Business,Kar?chi,Kar?chi,Temporary Site
+1121,12/27/2016 8:37,12/27/2016 8:59,Business,Kar?chi,Kar?chi,Meal/Entertain
+1122,12/27/2016 12:53,12/27/2016 12:57,Business,Kar?chi,Kar?chi,Meal/Entertain
+1123,12/27/2016 14:49,12/27/2016 15:03,Business,Kar?chi,Unknown Location,Customer Visit
+1124,12/27/2016 16:34,12/27/2016 16:58,Business,Unknown Location,Kar?chi,Meeting
+1125,12/27/2016 19:19,12/27/2016 19:50,Business,Kar?chi,Kar?chi,Customer Visit
+1126,12/28/2016 8:34,12/28/2016 9:06,Business,Kar?chi,Unknown Location,Meal/Entertain
+1127,12/28/2016 11:42,12/28/2016 12:12,Business,Unknown Location,Kar?chi,Errand/Supplies
+1128,12/28/2016 13:53,12/28/2016 14:01,Business,Kar?chi,Kar?chi,Errand/Supplies
+1129,12/28/2016 15:04,12/28/2016 15:39,Business,Kar?chi,Unknown Location,Meal/Entertain
+1130,12/28/2016 17:02,12/28/2016 17:16,Business,Unknown Location,Kar?chi,Errand/Supplies
+1131,12/28/2016 18:33,12/28/2016 18:56,Business,Kar?chi,Kar?chi,Errand/Supplies
+1132,12/28/2016 22:44,12/28/2016 23:18,Business,Kar?chi,Kar?chi,Errand/Supplies
+1133,12/29/2016 0:49,12/29/2016 1:06,Business,Kar?chi,Kar?chi,Errand/Supplies
+1134,12/29/2016 9:44,12/29/2016 10:07,Business,Kar?chi,Unknown Location,Meal/Entertain
+1135,12/29/2016 11:28,12/29/2016 12:00,Business,Unknown Location,Kar?chi,Meal/Entertain
+1136,12/29/2016 12:25,12/29/2016 12:33,Business,Kar?chi,Kar?chi,Errand/Supplies
+1137,12/29/2016 13:17,12/29/2016 13:24,Business,Kar?chi,Kar?chi,Errand/Supplies
+1138,12/29/2016 13:56,12/29/2016 14:11,Business,Kar?chi,Kar?chi,Airport/Travel
+1139,12/29/2016 14:42,12/29/2016 14:58,Business,Kar?chi,Kar?chi,Between Offices
+1140,12/29/2016 15:05,12/29/2016 15:16,Business,Kar?chi,Kar?chi,Errand/Supplies
+1141,12/29/2016 18:59,12/29/2016 19:14,Business,Kar?chi,Unknown Location,Meal/Entertain
+1142,12/29/2016 19:50,12/29/2016 20:10,Business,Unknown Location,Kar?chi,Customer Visit
+1143,12/29/2016 20:15,12/29/2016 20:45,Business,Kar?chi,Kar?chi,Meeting
+1144,12/29/2016 20:53,12/29/2016 21:42,Business,Kar?chi,Unknown Location,
+1145,12/29/2016 23:14,12/29/2016 23:47,Business,Unknown Location,Kar?chi,Meeting
+1146,12/30/2016 10:15,12/30/2016 10:33,Business,Kar?chi,Kar?chi,Errand/Supplies
+1147,12/30/2016 11:31,12/30/2016 11:56,Business,Kar?chi,Kar?chi,Errand/Supplies
+1148,12/30/2016 15:41,12/30/2016 16:03,Business,Kar?chi,Kar?chi,Errand/Supplies
+1149,12/30/2016 16:45,12/30/2016 17:08,Business,Kar?chi,Kar?chi,Meeting
+1150,12/30/2016 23:06,12/30/2016 23:10,Business,Kar?chi,Kar?chi,Customer Visit
+1151,12/31/2016 1:07,12/31/2016 1:14,Business,Kar?chi,Kar?chi,Meeting
+1152,12/31/2016 13:24,12/31/2016 13:42,Business,Kar?chi,Unknown Location,Temporary Site
+1153,12/31/2016 15:03,12/31/2016 15:38,Business,Unknown Location,Unknown Location,Meeting
+1154,12/31/2016 21:32,12/31/2016 21:50,Business,Katunayake,Gampaha,Temporary Site
+1155,12/31/2016 22:08,12/31/2016 23:51,Business,Gampaha,Ilukwatta,Temporary Site
